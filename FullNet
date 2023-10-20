@@ -37,7 +37,12 @@ http://samuraitv.online:8000/ultraxtvextreme/yjeth438234894543dgds/270538
 http://samuraitv.online:8000/ultraxtvextreme/yjeth438234894543dgds/270539
 #EXTINF:-1 tvg-id="foxsportsp.co" tvg-name="COL | FOX SPORTS PREMIUM HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/FOXSportsPremium2019.png/revision/latest/scale-to-width-down/250?cb=20190602030108&path-prefix=es" group-title="TV | COLOMBIA",CO | FOX SPORTS PREMIUM HD
 http://samuraitv.online:8000/ultraxtvextreme/yjeth438234894543dgds/146173
-#EXTM3U
+#EXTINF:-1 tvg-id="ladespechadatv.co" tvg-name="COL | LA DESPECHADA HD" tvg-logo="https://ladespechada.com/wp-content/uploads/2023/01/fondo-pantalla-la-despechada.png" group-title="TV | COLOMBIA",CO | LA DESPECHADA HD
+https://servidordevideo.com:3077/live/despechadalive.m3u8
+#EXTINF:-1 tvg-id="lakalle.co" tvg-name="COL | LA KALLE HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Lakallecol.png/revision/latest?cb=20210218135608&path-prefix=es" group-title="TV | COLOMBIA",CO | LA KALLE HD
+http://45.191.234.189:15084/play/a05m/index.m3u8
+#EXTINF:-1 tvg-id="lamia.co" tvg-name="COL | LA MIA TV HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2217-294x165-FFFFFF.jpg" group-title="TV | COLOMBIA",CO | LA MIA TV HD
+https://ss5.domint.net:3184/mia_str/lamiatv/chunklist_w577332368.m3u8
 #EXTINF:-1 tvg-id="ranchenato" tvg-name="COL | RANCHENATO HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/Ranchenato.png/revision/latest/scale-to-width-down/270?cb=20210517024555&path-prefix=es" group-title="TV | COLOMBIA",CO | RANCHENATO HD
 http://45.191.234.189:15084/play/a050/index.m3u8
 #EXTINF:-1 tvg-id="rcn" tvg-name="COL | RCN HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/CanalRCN2023a.png/revision/latest/scale-to-width-down/200?cb=20230620180649&path-prefix=es" group-title="TV | COLOMBIA",CO | RCN HD
