@@ -14,9 +14,11 @@ http://samuraitv.online:8000/ultraxtvextreme/yjeth438234894543dgds/200864
 #EXTINF:-1 tvg-id="clarosports2.co" tvg-name="COL | CLARO SPORTS 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/ClaroSports2.png/revision/latest?cb=20210423191014&path-prefix=es" group-title="TV | COLOMBIA",CO | CLARO SPORTS 2 HD
 http://samuraitv.online:8000/ultraxtvextreme/yjeth438234894543dgds/136449
 #EXTINF:-1 tvg-id="dsports" tvg-name="COL | DIRECT TV SPORTS HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DSports_2022.png/revision/latest?cb=20221114235431&path-prefix=es" group-title="TV | COLOMBIA",CO | DIRECT TV SPORTS HD
-http://proiptvdigic.com:8080/nova/PTvMaLYxKYmd/146507
+http://proiptvdigic.com:8080/nova/PTvMaLYxKYmd/146517
 #EXTINF:-1 tvg-id="dsports2" tvg-name="COL | DIRECT TV SPORTS 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/DSports_2_2022.png/revision/latest/scale-to-width-down/284?cb=20221115002249&path-prefix=es" group-title="TV | COLOMBIA",CO | DIRECT TV SPORTS 2 HD
 http://proiptvdigic.com:8080/nova/PTvMaLYxKYmd/146504
+#EXTINF:-1 tvg-id="dsports+" tvg-name="COL | DIRECT TV SPORTS + HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/DSports_%2B_2022.png/revision/latest/scale-to-width-down/340?cb=20221115002318&path-prefix=es" group-title="TV | COLOMBIA",CO | DIRECT TV SPORTS + HD
+http://proiptvdigic.com:8080/nova/PTvMaLYxKYmd/146510
 #EXTINF:-1 tvg-id="disneychannel.co" tvg-name="COL | DISNEY CHANNEL HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Disney_channel_2019.svg/revision/latest?cb=20220920223409" group-title="TV | COLOMBIA",CO | DISNEY CHANNEL HD
 http://proiptvdigic.com:8080/nova/PTvMaLYxKYmd/171
 #EXTINF:-1 tvg-id="disneyjunior.co" tvg-name="COL | DISNEY JUNIOR HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Disney_Junior_Logo_2020.png/revision/latest?cb=20201007202007" group-title="TV | COLOMBIA",CO | DISNEY JUNIOR HD
