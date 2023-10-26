@@ -6,13 +6,13 @@ http://proiptvdigic.com:8080/nova/PTvMaLYxKYmd/220
 #EXTINF:-1 tvg-id="caracoltv" tvg-name="COL | CARACOL HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/CaracolTelevisi%C3%B3n2023.png/revision/latest/scale-to-width-down/200?cb=20230109040049&path-prefix=es" group-title="TV | COLOMBIA",CO | CARACOL HD
 http://proiptvdigic.com:8080/nova/PTvMaLYxKYmd/221
 #EXTINF:-1 tvg-id="cartoonito.co" tvg-name="COL | CARTOONITO HD" tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/6/66/Cartoonito_-_Logo_2021.svg.png/revision/latest/scale-to-width-down/1200?cb=20220531001742" group-title="TV | COLOMBIA",CO | CARTOONITO HD
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/149687
+http://proiptvdigic.com:8080/nova/PTvMaLYxKYmd/181552
 #EXTINF:-1 tvg-id="cartoonnetwork.co" tvg-name="COL | CARTOON NETWORK HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest?cb=20210726224754" group-title="TV | COLOMBIA",CO | CARTOON NETWOK HD
 http://proiptvdigic.com:8080/nova/PTvMaLYxKYmd/169
 #EXTINF:-1 tvg-id="clarosports.co" tvg-name="COL | CLARO SPORTS HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/ClaroSports.png/revision/latest?cb=20210414152347&path-prefix=es" group-title="TV | COLOMBIA",CO | CLARO SPORTS HD
 http://proiptvdigic.com:8080/nova/PTvMaLYxKYmd/392
 #EXTINF:-1 tvg-id="clarosports2.co" tvg-name="COL | CLARO SPORTS 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/ClaroSports2.png/revision/latest?cb=20210423191014&path-prefix=es" group-title="TV | COLOMBIA",CO | CLARO SPORTS 2 HD
-http://samuraitv.online:8000/ultraxtvextreme/yjeth438234894543dgds/136449
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/153566
 #EXTINF:-1 tvg-id="dsports" tvg-name="COL | DIRECT TV SPORTS HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DSports_2022.png/revision/latest?cb=20221114235431&path-prefix=es" group-title="TV | COLOMBIA",CO | DIRECT TV SPORTS HD
 http://proiptvdigic.com:8080/nova/PTvMaLYxKYmd/146517
 #EXTINF:-1 tvg-id="dsports2" tvg-name="COL | DIRECT TV SPORTS 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/DSports_2_2022.png/revision/latest/scale-to-width-down/284?cb=20221115002249&path-prefix=es" group-title="TV | COLOMBIA",CO | DIRECT TV SPORTS 2 HD
@@ -36,27 +36,25 @@ http://proiptvdigic.com:8080/nova/PTvMaLYxKYmd/218702
 #EXTINF:-1 tvg-id="espnpremium.co" tvg-name="COL | ESPN PREMIUM FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/ESPN_Premium_%282022%29.svg/revision/latest?cb=20220505041004" group-title="TV | COLOMBIA",CO | ESPN PREMIUM FHD
 http://proiptvdigic.com:8080/nova/PTvMaLYxKYmd/218746
 #EXTINF:-1 tvg-id="foxsports1.co" tvg-name="COL | FOX SPORTS 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Fs1.png/revision/latest?cb=20160402190112" group-title="TV | COLOMBIA",CO | FOX SPORTS 1 HD
-http://samuraitv.online:8000/ultraxtvextreme/yjeth438234894543dgds/227785
+http://proiptvdigic.com:8080/nova/PTvMaLYxKYmd/139
 #EXTINF:-1 tvg-id="foxsports2.co" tvg-name="COL | FOX SPORTS 2 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Fox_Sports_2_Logo.svg/revision/latest?cb=20210602141601" group-title="TV | COLOMBIA",CO | FOX SPORTS 2 FHD
-http://samuraitv.online:8000/ultraxtvextreme/yjeth438234894543dgds/270538
+http://proiptvdigic.com:8080/nova/PTvMaLYxKYmd/381
 #EXTINF:-1 tvg-id="foxsports3.co" tvg-name="COL | FOX SPORTS 3 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/FSA3.png/revision/latest?cb=20131030210424" group-title="TV | COLOMBIA",CO | FOX SPORTS 3 FHD
-http://samuraitv.online:8000/ultraxtvextreme/yjeth438234894543dgds/270539
+http://proiptvdigic.com:8080/nova/PTvMaLYxKYmd/384
 #EXTINF:-1 tvg-id="foxsportsp.co" tvg-name="COL | FOX SPORTS PREMIUM HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/FOXSportsPremium2019.png/revision/latest/scale-to-width-down/250?cb=20190602030108&path-prefix=es" group-title="TV | COLOMBIA",CO | FOX SPORTS PREMIUM HD
-http://samuraitv.online:8000/ultraxtvextreme/yjeth438234894543dgds/146173
+http://proiptvdigic.com:8080/nova/PTvMaLYxKYmd/27857
 #EXTINF:-1 tvg-id="ladespechadatv.co" tvg-name="COL | LA DESPECHADA HD" tvg-logo="https://ladespechada.com/wp-content/uploads/2023/01/fondo-pantalla-la-despechada.png" group-title="TV | COLOMBIA",CO | LA DESPECHADA HD
 https://servidordevideo.com:3077/live/despechadalive.m3u8
 #EXTINF:-1 tvg-id="lakalle.co" tvg-name="COL | LA KALLE HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Lakallecol.png/revision/latest?cb=20210218135608&path-prefix=es" group-title="TV | COLOMBIA",CO | LA KALLE HD
-http://45.191.234.189:15084/play/a05m/index.m3u8
+http://177.93.45.155:6143/play/a01e/index.m3u8
 #EXTINF:-1 tvg-id="lamia.co" tvg-name="COL | LA MIA TV HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2217-294x165-FFFFFF.jpg" group-title="TV | COLOMBIA",CO | LA MIA TV HD
 https://ss5.domint.net:3184/mia_str/lamiatv/chunklist_w577332368.m3u8
-#EXTINF:-1 tvg-id="ranchenato" tvg-name="COL | RANCHENATO HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/Ranchenato.png/revision/latest/scale-to-width-down/270?cb=20210517024555&path-prefix=es" group-title="TV | COLOMBIA",CO | RANCHENATO HD
-http://45.191.234.189:15084/play/a050/index.m3u8
 #EXTINF:-1 tvg-id="rcn" tvg-name="COL | RCN HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/CanalRCN2023a.png/revision/latest/scale-to-width-down/200?cb=20230620180649&path-prefix=es" group-title="TV | COLOMBIA",CO | RCN HD
-http://samuraitv.online:8000/ultraxtvextreme/yjeth438234894543dgds/292038
+http://proiptvdigic.com:8080/nova/PTvMaLYxKYmd/241
 #EXTINF:-1 tvg-id="rcnmas.co" tvg-name="COL | RCN MÁS HD" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="TV | COLOMBIA",CO | RCN MÁS HD
 https://rcntv-rcnmas-1-us.plex.wurl.tv/4300.m3u8
 #EXTINF:-1 tvg-id="rcnnovelas.co" tvg-name="COL | RCN NOVELAS HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/RCNnovelas2019.png/revision/latest?cb=20191226224137" group-title="TV | COLOMBIA",CO | RCN NOVELAS HD
-http://samuraitv.online:8000/ultraxtvextreme/yjeth438234894543dgds/135035
+http://proiptvdigic.com:8080/nova/PTvMaLYxKYmd/558
 #EXTINF:-1 tvg-id="rcnxtra.co" tvg-name="COL | RCN XTRA HD" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/rcn-xtra_2.jpg" group-title="TV | COLOMBIA",CO | RCN XTRA HD
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/4300.m3u8
 #EXTINF:-1 tvg-id="urbantv.co" tvg-name="COL | URBAN TV HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2211-294x165-FFFFFF.jpg" group-title="TV | COLOMBIA",CO | URBAN TV HD
@@ -69,5 +67,3 @@ http://proiptvdigic.com:8080/nova/PTvMaLYxKYmd/197665
 http://proiptvdigic.com:8080/nova/PTvMaLYxKYmd/197668
 #EXTINF:-1 tvg-id="winsports+2" tvg-name="COL | WIN SPORTS + 2 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/WinSports%2B2022.png/revision/latest/scale-to-width-down/340?cb=20230109125452&path-prefix=es" group-title="TV | COLOMBIA",CO | WIN SPORTS + 2 FHD
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/131985
-#EXTINF:-1 tvg-id="winsports+3" tvg-name="COL | WIN SPORTS + 3 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/WinSports%2B2022.png/revision/latest/scale-to-width-down/340?cb=20230109125452&path-prefix=es" group-title="TV | COLOMBIA",CO | WIN SPORTS + 3 FHD
-http://samuraitv.online:8000/ultraxtvextreme/yjeth438234894543dgds/2684
