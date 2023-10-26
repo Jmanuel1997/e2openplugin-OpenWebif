@@ -43,6 +43,22 @@ http://proiptvdigic.com:8080/nova/PTvMaLYxKYmd/381
 http://proiptvdigic.com:8080/nova/PTvMaLYxKYmd/384
 #EXTINF:-1 tvg-id="foxsportsp.co" tvg-name="COL | FOX SPORTS PREMIUM HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/FOXSportsPremium2019.png/revision/latest/scale-to-width-down/250?cb=20190602030108&path-prefix=es" group-title="TV | COLOMBIA",CO | FOX SPORTS PREMIUM HD
 http://proiptvdigic.com:8080/nova/PTvMaLYxKYmd/27857
+#EXTINF:-1 tvg-id="hbohd.co" tvg-name="COL | HBO HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/HBO.svg/revision/latest?cb=20201126030141" group-title="TV | COLOMBIA",CO | HBO HD
+http://proiptvdigic.com:8080/nova/PTvMaLYxKYmd/345
+#EXTINF:-1 tvg-id="hbo2.co" tvg-name="COL | HBO 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/HBO2_logo.svg/revision/latest?cb=20220319012459" group-title="TV | COLOMBIA",CO | HBO 2 HD
+http://proiptvdigic.com:8080/nova/PTvMaLYxKYmd/218716
+#EXTINF:-1 tvg-id="hbofamily.co" tvg-name="COL | HBO FAMILY HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/HBOfamilyLA2021.svg/revision/latest?cb=20220505142501" group-title="TV | COLOMBIA",CO | HBO FAMILY HD
+http://proiptvdigic.com:8080/nova/PTvMaLYxKYmd/218717
+#EXTINF:-1 tvg-id="hbomundi.co" tvg-name="COL | HBO MUNDI HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/HBO_Mundi_%282020%29.svg/revision/latest?cb=20200508220536" group-title="TV | COLOMBIA",CO | HBO MUNDI HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/2796
+#EXTINF:-1 tvg-id="hbopop.co" tvg-name="COL | HBO POP HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/HBO_Pop_%282020%29.svg/revision/latest?cb=20200508220707" group-title="TV | COLOMBIA",CO | HBO POP HD
+http://proiptvdigic.com:8080/nova/PTvMaLYxKYmd/218719
+#EXTINF:-1 tvg-id="hbosignature.co" tvg-name="COL | HBO SIGNATURE FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/HBO_Signature_2000.svg/revision/latest?cb=20100323081748" group-title="TV | COLOMBIA",CO | HBO SIGNATURE FHD
+http://proiptvdigic.com:8080/nova/PTvMaLYxKYmd/218747
+#EXTINF:-1 tvg-id="hboxtreme.co" tvg-name="COL | HBO XTREME FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/HBO_Xtreme_%282020%29.svg/revision/latest?cb=20200508220352" group-title="TV | COLOMBIA",CO | HBO XTREME FHD
+http://proiptvdigic.com:8080/nova/PTvMaLYxKYmd/218720
+#EXTINF:-1 tvg-id="hbo+.co" tvg-name="COL | HBO + FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/Logohboplus2019.svg/revision/latest?cb=20190408002018" group-title="TV | COLOMBIA",CO | HBO + FHD
+http://proiptvdigic.com:8080/nova/PTvMaLYxKYmd/218726
 #EXTINF:-1 tvg-id="ladespechadatv.co" tvg-name="COL | LA DESPECHADA HD" tvg-logo="https://ladespechada.com/wp-content/uploads/2023/01/fondo-pantalla-la-despechada.png" group-title="TV | COLOMBIA",CO | LA DESPECHADA HD
 https://servidordevideo.com:3077/live/despechadalive.m3u8
 #EXTINF:-1 tvg-id="lakalle.co" tvg-name="COL | LA KALLE HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Lakallecol.png/revision/latest?cb=20210218135608&path-prefix=es" group-title="TV | COLOMBIA",CO | LA KALLE HD
