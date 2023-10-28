@@ -5,8 +5,6 @@ https://s1.abntelevision.com/avivamientohd/avivamientohd/playlist.m3u8
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 #EXTINF:-1 tvg-id="alpasurfnet.co" tvg-name="COL | ALPASURFNET HD" tvg-logo="https://alpavision.com.co/wp-content/uploads/elementor/thumbs/logo-alpasurfnet-ptemv9jy14zd3c631n1ix42fpen4fr6vri0v2havc0.png" group-title="TV | COLOMBIA",CO | ALPASURFNET HD
 https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
-#EXTINF:-1 tvg-id="amagatv.co" tvg-name="COL | AMAGA TV HD" tvg-logo="https://amagatelevision.com/wp-content/uploads/elementor/thumbs/LOGO-CON-ESLOGAN-IZQUIEDO-TRANSPARENCIA-1110px-pi7q5n338764nw59609jk05y5306k0ca6nf7dceh8w.png" group-title="TV | COLOMBIA",CO | AMAGA TV HD
-https://video-weaver.atl01.hls.ttvnw.net/v1/playlist/CrMFXWVcbW7swd_2dFzIDhtczM5aFYumqDOQrwKqw0vo02BJ3b4mhe4mWIcRLgC-WcnE7N29mJApZ1Y0H2V-70t8puXuq4w_avRr9z9jQ9yeINWZMKAZ3qifYQHBv7tQ6M_ULsJK2S4KsOObhI-xeILFp-KhOc3IPtXxFAVDBdh3uAtfEjJJbwf4IX16Ky4nQloif5l2RG8o8bUf8kd4_vpq0qCMoZR61i5SEaQeI2XYLOHK16LhQTLCXMKhblIW_zRcFiqgS_TqlaUwvurcFgpw1uIq1ANohnp0aBLWvMS6nFW6uG4CRgqAi5L5RzlNlyn8zdRoQGF_Y6cdddl7146iLJ9HMPFURw8VHm0bL-zC619oSgtn7S1qSuxFMgxrkvzn5hluFY8Cjh_zbi_QOGfNnWQG7c3uhkVz33-HalI5XP1HIRM6bX7ARStgnCxVXUUEg7AisoWZkXSj1PCsY7Y9l-OV2W-6kVbKUJY5xW7E66gXKzHE_IeQ3Vyz1VGeg6KASV_g1jQrPOMR91D5HjEVATuoiVNnxn9LelRRkh8xKeqGHi0CbDHD-_cUFj9Si2pKV7NOHmn2svg3gyaugdmq_TUiBVLr-72rL4hsS2NbUsXCDTxwZeZ0mgW9FndTkkoRMpCBCWfalLnhZ-FYlBS3Le-hXHkJQleD4vI2Z9co-BOrrFHaI-CJ0ayHuLObMzm0L8hkn00Ts-tmJdKIc4i_-PYX_XBk1ArFqf6U03RULSmukgYdClXPzgA877pr4yYAjK77YDt-wkbtbgD4FR-u-HRgaMmq-XDyF11eD2ppL3cc9jB1eWgagp4mVuXZJpAf8PEouPfY0rXWSOIDBmVpfAzhBWzV3DoQqGy0f9tcsRUZeiWui97Dh-zQSm9_MfVy9vnh5gkD_2fOVqDlKHBBdY3fUBoMbSJM2xbW_x5fKjVpIAEqCXVzLWVhc3QtMTCjBg.m3u8
 #EXTINF:-1 tvg-id="amordiscos.co" tvg-name="COL | AMORDISCOS HD" tvg-logo="https://amordiscostv.com/wp-content/uploads/2022/08/thumbnail_Logo-Amordiscos-600x600-alpha.png" group-title="TV | COLOMBIA",CO | AMORDISCOS HD
 https://canal.mediaserver.com.co/live/canalamordiscos.m3u8
 #EXTINF:-1 tvg-id="amc.co" tvg-name="COL | AMC FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/AMC_%282019%29_%28White%29.svg/revision/latest?cb=20230124163338" group-title="TV | COLOMBIA",CO | AMC FHD
@@ -21,15 +19,13 @@ https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
 http://proiptvdigic.com:8080/nova/PTvMaLYxKYmd/334
 #EXTINF:-1 tvg-id="azcorazon.co" tvg-name="COL | AZ CORAZON HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/TV_Azteca_Corazon_2021.png/revision/latest?cb=20220316001914&path-prefix=es" group-title="TV | COLOMBIA",CO | AZ CORAZON HD
 http://proiptvdigic.com:8080/nova/PTvMaLYxKYmd/279
-#EXTINF:-1 tvg-id="azmundo.co" tvg-name="COL | AZTECA INTERNACIONAL FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Az_Mundo_2014-2018.png/revision/latest?cb=20220217171211&path-prefix=es" group-title="TV | COLOMBIA",CO | AZTECA INTERNACIONAL HD
-http://iptvtree.net:8080/iptveuro/P2aajUS4ejKhR5Ax/32049
 #EXTINF:-1 tvg-id="aztecauno.co" tvg-name="COL | AZTECA UNO FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/Azteca_Uno_%282020%29.svg/revision/latest?cb=20210425072901" group-title="TV | COLOMBIA",CO | AZTECA UNO FHD
 http://iptvtree.net:8080/iptveuro/P2aajUS4ejKhR5Ax/9025
 #EXTINF:-1 tvg-id="azteca7.co" tvg-name="COL | AZTECA 7 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Azteca_7_2016.svg/revision/latest?cb=20210516043012&path-prefix=es" group-title="TV | COLOMBIA",CO | AZTECA 7 HD
 http://proiptvdigic.com:8080/nova/PTvMaLYxKYmd/538
 #EXTINF:-1 tvg-id="a&e.co" tvg-name="COL | A&E FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/A%26E_2008.svg/revision/latest?cb=20180507153757" group-title="TV | COLOMBIA",CO | A&E FHD
 http://proiptvdigic.com:8080/nova/PTvMaLYxKYmd/102
-#EXTINF:-1 tvg-id="babytv.co" tvg-name="COL | BABY TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/BabyTV.png/250px-BabyTV.png" group-title="TV | COLOMBIA",CO | BABY TV SD
+#EXTINF:-1 tvg-id="babytv.co" tvg-name="COL | BABY TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/BabyTV.png/250px-BabyTV.png" group-title="TV | COLOMBIA",CO | BABY TV HD
 http://proiptvdigic.com:8080/nova/PTvMaLYxKYmd/1376
 #EXTINF:-1 tvg-id="bitme.co" tvg-name="COL | BITME FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/BitMe_logo.svg/revision/latest?cb=20211015235403" group-title="TV | COLOMBIA",CO | BITME FHD
 http://proiptvdigic.com:8080/nova/PTvMaLYxKYmd/81441
@@ -126,7 +122,7 @@ http://proiptvdigic.com:8080/nova/PTvMaLYxKYmd/172
 #EXTINF:-1 tvg-id="distritocomedia.co" tvg-name="COL | DISTRITO COMEDIA HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Distrito_Comedia_2022.png/revision/latest?cb=20220330053543" group-title="TV | COLOMBIA",CO | DISTRITO COMEDIA HD
 http://proiptvdigic.com:8080/nova/PTvMaLYxKYmd/19
 #EXTINF:-1 tvg-id="dsports" tvg-name="COL | DIRECT TV SPORTS HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DSports_2022.png/revision/latest?cb=20221114235431&path-prefix=es" group-title="TV | COLOMBIA",CO | DIRECT TV SPORTS HD
-http://proiptvdigic.com:8080/nova/PTvMaLYxKYmd/146517
+http://proiptvdigic.com:8080/nova/PTvMaLYxKYmd/146507
 #EXTINF:-1 tvg-id="dsports2" tvg-name="COL | DIRECT TV SPORTS 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/DSports_2_2022.png/revision/latest/scale-to-width-down/284?cb=20221115002249&path-prefix=es" group-title="TV | COLOMBIA",CO | DIRECT TV SPORTS 2 HD
 http://proiptvdigic.com:8080/nova/PTvMaLYxKYmd/146504
 #EXTINF:-1 tvg-id="dsports+" tvg-name="COL | DIRECT TV SPORTS + HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/DSports_%2B_2022.png/revision/latest/scale-to-width-down/340?cb=20221115002318&path-prefix=es" group-title="TV | COLOMBIA",CO | DIRECT TV SPORTS + HD
