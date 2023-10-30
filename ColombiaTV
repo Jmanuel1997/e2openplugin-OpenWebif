@@ -27,6 +27,8 @@ http://iptvtree.net:8080/iptveuro/P2aajUS4ejKhR5Ax/8348
 https://movil.ejeserver.com/live/teledoradahd.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHU81AaGU6mO7FbujfLCfeI-kvc2Rn7uvCjg&usqp=CAU" group-title="TV | COLOMBIA", COL | CANAL TELEPALMAR HD
 https://play.amelbasoluciones.co:3976/live/telepalmartvlive.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Canal-trece-colombia.svg/revision/latest/scale-to-width-down/250?cb=20210425220830&path-prefix=es" group-title="TV | COLOMBIA", COL | CANAL TRECE HD
+https://canaltrece-live.logicideas.media/canaltrece-live/smil:livebk.smil/chunklist_w947279263_b2250000_sles.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/80/Canal_TRO_2020.png/revision/latest/scale-to-width-down/250?cb=20200921160343&path-prefix=es" group-title="TV | COLOMBIA", COL | CANAL TRO HD
 http://iptvtree.net:8080/iptveuro/P2aajUS4ejKhR5Ax/47941
 #EXTINF:-1 tvg-logo="https://canalvisiondorada.com.co/wp-content/uploads/2019/10/NUEVO-LOGO-CANAL-VISION-DORADA-negro_mini.png" group-title="TV | COLOMBIA", COL | CANAL VISIÓN DORADA HD
@@ -43,6 +45,8 @@ http://iptvtree.net:8080/iptveuro/P2aajUS4ejKhR5Ax/8351
 https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/2560px-Cartoonito_-_Logo_2021.svg.png" group-title="TV | COLOMBIA", COL | CARTOONITO HD
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/149687
+#EXTINF:-1 tvg-logo="http://www.cncpasto.com/wp-content/uploads/2018/04/Untitled-1.png" group-title="TV | COLOMBIA", COL | CNC PASTO HD
+http://pastocnc1.ddns.net/pastocnc9/cnc9/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest/scale-to-width-down/250?cb=20210102195101&path-prefix=es" group-title="TV | COLOMBIA", COL | ESPN FHD
 http://proiptvdigic.com:8080/fer43092/yGFE5wmQDwxn/215001
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/CMB-TV-Colombia-en-vivo-Online.png?resize=1068%2C601&ssl=1" group-title="TV | COLOMBIA", COL | CMB TELEVISIÓN HD
@@ -65,11 +69,13 @@ https://rcntv-rcnmas-1-us.plex.wurl.tv/4300.m3u8
 http://iptvtree.net:8080/iptveuro/P2aajUS4ejKhR5Ax/54283
 #EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/rcn-xtra_2.jpg" group-title="TV | COLOMBIA", COL | RCN XTRA
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/4300.m3u8
+#EXTINF:-1 tvg-logo="http://canal.univalle.edu.co/wp-content/uploads/2018/08/logo-webhj-2.gif" group-title="TV | COLOMBIA", COL | UNIVALLE HD
+http://5ab772334c39c.streamlock.net/live-univalle/_definst_/liveuniv1497/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/WinSports2022.png/revision/latest/scale-to-width-down/250?cb=20230109124705&path-prefix=es" group-title="TV | COLOMBIA", COL |  WIN SPORTS FHD
 http://proiptvdigic.com:8080/fer43092/yGFE5wmQDwxn/197665
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/WinSports%2B2022.png/revision/latest/scale-to-width-down/340?cb=20230109125452&path-prefix=es" group-title="TV | COLOMBIA", COL |  WIN SPORTS + FHD 
-http://proiptvdigic.com:8080/spainexchange/xdGNa4YjkEFp/197668
+http://proiptvdigic.com:8080/fer43092/yGFE5wmQDwxn/197667
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/WinSports%2B2022.png/revision/latest/scale-to-width-down/340?cb=20230109125452&path-prefix=es" group-title="TV | COLOMBIA", COL |  WIN SPORTS + 2 FHD 
-http://proiptvdigic.com:8080/nova/PTvMaLYxKYmd/197668
+http://iptvtree.net:8080/iptveuro/P2aajUS4ejKhR5Ax/294455
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/WinSports%2B2022.png/revision/latest/scale-to-width-down/340?cb=20230109125452&path-prefix=es" group-title="TV | COLOMBIA", COL |  WIN SPORTS + 3 FHD 
 http://181.78.1.158:8000/play/a02u/index.m3u8
