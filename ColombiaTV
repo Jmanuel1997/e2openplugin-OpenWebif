@@ -1,8 +1,52 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://alpavision.com.co/wp-content/uploads/elementor/thumbs/logo-alpasurfnet-ptemv9jy14zd3c631n1ix42fpen4fr6vri0v2havc0.png" group-title="TV | COLOMBIA", COL | ALPASURFNET FHD
+https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/AMC2019.png/revision/latest/scale-to-width-down/230?cb=20200111235406&path-prefix=es" group-title="TV | COLOMBIA", COL | AMC FHD
+http://proiptvdigic.com:8080/spainexchange/xdGNa4YjkEFp/333
 #EXTINF:-1 tvg-logo="https://amordiscostv.com/wp-content/uploads/2022/08/thumbnail_Logo-Amordiscos-600x600-alpha.png" group-title="TV | COLOMBIA", COL | AMORDISCOS HD
 https://canal.mediaserver.com.co/live/canalamordiscos.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/ATN_Televisi%C3%B3n_logo.svg/1200px-ATN_Televisi%C3%B3n_logo.svg.png" group-title="TV | COLOMBIA", COL | ATN TV HD
+https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/AXN_2015.svg/revision/latest/scale-to-width-down/340?cb=20210405161841&path-prefix=es" group-title="TV | COLOMBIA", COL | AXN FHD
+http://proiptvdigic.com:8080/spainexchange/xdGNa4YjkEFp/334
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/A%26E_2008.svg/revision/latest/scale-to-width-down/250?cb=20200115014546&path-prefix=es" group-title="TV | COLOMBIA", COL | A&E FHD
+http://proiptvdigic.com:8080/spainexchange/xdGNa4YjkEFp/332
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Baby_TV_2012.png/revision/latest/scale-to-width-down/250?cb=20180823145543&path-prefix=es" group-title="TV | COLOMBIA", COL | BABY TV HD
+http://proiptvdigic.com:8080/spainexchange/xdGNa4YjkEFp/1376
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Cablenoticias2015.png/revision/latest?cb=20210422011619&path-prefix=es" group-title="TV | COLOMBIA", COL | CABLE NOTICIAS FHD
+http://iptvtree.net:8080/iptveuro/P2aajUS4ejKhR5Ax/148933
+#EXTINF:-1 tvg-logo="https://www.cadenaelite.es/img/logoMenu.png" group-title="TV | COLOMBIA", COL | CADENA ELITE FHD
+https://cloudvideo.servers10.com:8081/8004/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Cali_TV.png/revision/latest?cb=20210422013022&path-prefix=es" group-title="TV | COLOMBIA", COL | CALI TV HD
+https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.canalcapital.gov.co/themes/custom/bootstrap_capital/source/images/Logo_Capital.png" group-title="TV | COLOMBIA", COL | CANAL CAPITAL FHD
+https://live-edge-eu-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/live-1500/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Se%C3%B1al_Institucional_logo.svg/800px-Se%C3%B1al_Institucional_logo.svg.png" group-title="TV | COLOMBIA", COL | CANAL INSTITUCIONAL HD
+http://iptvtree.net:8080/iptveuro/P2aajUS4ejKhR5Ax/8348
+#EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/canal-mas-television-5347.jpg" group-title="TV | COLOMBIA", COL | CANAL MÁS HD
+https://movil.ejeserver.com/live/teledoradahd.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHU81AaGU6mO7FbujfLCfeI-kvc2Rn7uvCjg&usqp=CAU" group-title="TV | COLOMBIA", COL | CANAL TELEPALMAR HD
+https://play.amelbasoluciones.co:3976/live/telepalmartvlive.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/80/Canal_TRO_2020.png/revision/latest/scale-to-width-down/250?cb=20200921160343&path-prefix=es" group-title="TV | COLOMBIA", COL | CANAL TRO HD
+http://iptvtree.net:8080/iptveuro/P2aajUS4ejKhR5Ax/47941
+#EXTINF:-1 tvg-logo="https://canalvisiondorada.com.co/wp-content/uploads/2019/10/NUEVO-LOGO-CANAL-VISION-DORADA-negro_mini.png" group-title="TV | COLOMBIA", COL | CANAL VISIÓN DORADA HD
+https://movil.ejeserver.com/live/visiondorada.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Definitive-logo-Canal-Uno-2017.svg/revision/latest/scale-to-width-down/180?cb=20210426210133&path-prefix=es" group-title="TV | COLOMBIA", COL | CANAL 1 FHD
+http://proiptvdigic.com:8080/fer43092/yGFE5wmQDwxn/220
+#EXTINF:-1 tvg-logo="https://www.canal2.co/wp-content/uploads/2017/02/logo-2.png" group-title="TV | COLOMBIA", COL | CANAL 2 HD
+https://video13.virtualtronics.com/streamer/canal2_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/CaracolTelevisi%C3%B3n2023.png/revision/latest/scale-to-width-down/200?cb=20230109040049&path-prefix=es" group-title="TV | COLOMBIA", COL | CARACOL FHD
+http://proiptvdigic.com:8080/spainexchange/xdGNa4YjkEFp/221
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/CanalCaracolInternacional2023.png/revision/latest/scale-to-width-down/200?cb=20230210190133&path-prefix=es" group-title="TV | COLOMBIA", COL | CARACOL INTERNACIONAL HD
+http://iptvtree.net:8080/iptveuro/P2aajUS4ejKhR5Ax/8351
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest/scale-to-width-down/250?cb=20210820025220&path-prefix=es" group-title="TV | COLOMBIA", COL | CARTOON NETWORK HD
+https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/2560px-Cartoonito_-_Logo_2021.svg.png" group-title="TV | COLOMBIA", COL | CARTOONITO HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/149687
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest/scale-to-width-down/250?cb=20210102195101&path-prefix=es" group-title="TV | COLOMBIA", COL | ESPN FHD
 http://proiptvdigic.com:8080/fer43092/yGFE5wmQDwxn/215001
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/CMB-TV-Colombia-en-vivo-Online.png?resize=1068%2C601&ssl=1" group-title="TV | COLOMBIA", COL | CMB TELEVISIÓN HD
+https://cdn-media-content.onestream.studio/content/hls/live/live_1884859_z6u4e1hge/hls.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/ESPN2_2006.svg/revision/latest/scale-to-width-down/284?cb=20200105155601&path-prefix=es" group-title="TV | COLOMBIA", COL | ESPN 2 FHD
 http://proiptvdigic.com:8080/fer43092/yGFE5wmQDwxn/215002
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="TV | COLOMBIA", COL | ESPN 3 FHD
@@ -11,3 +55,17 @@ http://181.78.1.158:8000/play/a026/index.m3u8
 http://181.78.1.158:8000/play/a02h/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png" group-title="TV | COLOMBIA", COL | ESPN EXTRA
 http://proiptvdigic.com:8080/fer43092/yGFE5wmQDwxn/218702
+#EXTINF:-1 tvg-logo="https://canalvisiondorada.com.co/wp-content/uploads/2023/07/ranchenato.png" group-title="TV | COLOMBIA", COL | RANCHENATO HD
+http://181.78.1.158:8000/play/a05o/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/CanalRCN2023a.png/revision/latest/scale-to-width-down/200?cb=20230620180649&path-prefix=es" group-title="TV | COLOMBIA", COL | RCN FHD
+http://proiptvdigic.com:8080/fer43092/yGFE5wmQDwxn/241
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="TV | COLOMBIA", COL | RCN MÁS FHD
+https://rcntv-rcnmas-1-us.plex.wurl.tv/4300.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/CanalRCNNovelas2019.png/revision/latest/scale-to-width-down/190?cb=20210307131301&path-prefix=es" group-title="TV | COLOMBIA", COL | RCN NOVELAS HD
+http://iptvtree.net:8080/iptveuro/P2aajUS4ejKhR5Ax/54283
+#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/rcn-xtra_2.jpg" group-title="TV | COLOMBIA", COL | RCN XTRA
+https://latv-rcn-xtra-1-mx.tcl.wurl.tv/4300.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/WinSports2022.png/revision/latest/scale-to-width-down/250?cb=20230109124705&path-prefix=es" group-title="TV | COLOMBIA", COL |  WIN SPORTS
+http://proiptvdigic.com:8080/fer43092/yGFE5wmQDwxn/197665
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/WinSports%2B2022.png/revision/latest/scale-to-width-down/340?cb=20230109125452&path-prefix=es" group-title="TV | COLOMBIA", COL |  WIN SPORTS +
+http://proiptvdigic.com:8080/fer43092/yGFE5wmQDwxn/197668
