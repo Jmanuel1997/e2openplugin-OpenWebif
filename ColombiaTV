@@ -79,9 +79,17 @@ https://hvtraficonew.ddns.net/pastocnc3/cnc3/playlist.m3u8
 https://hvtraficonew.ddns.net/pastocnc2/cnc2/playlist.m3u8
 #EXTINF:-1 tvg-logo=" tvg-logo="https://i.ibb.co/MBQyccq/Canal-CNC-Son-Popular-tvtolive-com.jpg" group-title="TV | COLOMBIA", COL | SON POPULAR
 https://hvtraficonew.ddns.net/pastocnc7/cnc7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/TeleNostalgia-2014.png/revision/latest/scale-to-width-down/220?cb=20210517030638&path-prefix=es" group-title="TV | COLOMBIA", COL | TELENOSTALGIA HD
+http://181.78.1.158:8000/play/a04w/index.m3u8
 #EXTINF:-1 tvg-logo="http://canal.univalle.edu.co/wp-content/uploads/2018/08/logo-webhj-2.gif" group-title="TV | COLOMBIA", COL | UNIVALLE HD
 http://5ab772334c39c.streamlock.net/live-univalle/_definst_/liveuniv1497/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/WinSports2022.png/revision/latest/scale-to-width-down/250?cb=20230109124705&path-prefix=es" group-title="TV | COLOMBIA", COL |  WIN SPORTS FHD
 http://proiptvdigic.com:8080/fer43092/yGFE5wmQDwxn/197665
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/WinSports%2B2022.png/revision/latest/scale-to-width-down/340?cb=20230109125452&path-prefix=es" group-title="TV | COLOMBIA", COL |  WIN SPORTS + FHD 
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/131984
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/WinSports%2B2022.png/revision/latest/scale-to-width-down/340?cb=20230109125452&path-prefix=es" group-title="TV | COLOMBIA", COL |  WIN SPORTS + 2 FHD 
+http://181.78.1.158:8000/play/a02u/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/WinSports%2B2022.png/revision/latest/scale-to-width-down/340?cb=20230109125452&path-prefix=es" group-title="TV | COLOMBIA", COL |  WIN SPORTS + 3 FHD 
+http://181.78.4.186:8000/play/a0ro/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/WinSports%2B2022.png/revision/latest/scale-to-width-down/340?cb=20230109125452&path-prefix=es" group-title="TV | COLOMBIA", COL |  WIN SPORTS + 4 FHD 
+http://181.119.66.30:8000/play/a04q/index.m3u8
