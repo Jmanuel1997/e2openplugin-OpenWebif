@@ -61,6 +61,10 @@ http://181.78.1.158:8000/play/a02h/index.m3u8
 http://proiptvdigic.com:8080/fer43092/yGFE5wmQDwxn/218702
 #EXTINF:-1 tvg-logo="https://memorias.tv/wp-content/uploads/2022/03/cropped-logo-MEMORIAS-TV-png-1.png" group-title="TV | COLOMBIA", COL | MEMORIAS TV HD
 https://mediacp.us:8081/8002/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.ondambientalstereo.com/gallery_gen/69debe87b6cad2b71120d45442c041f8_1250x1301.4705882353.png" group-title="TV | COLOMBIA", COL | ONDAMBIENTAL SD
+https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/jS5ZpD_XyWo_7yKPkRYbJ9OvNE4P1KFuEfP93Nexj2-cIeTsI1mDFPnnONXrMIilfJc" group-title="TV | COLOMBIA", COL | OXIGENO NETWORK HD
+https://mediacp.us:8081/8002/index.m3u8
 #EXTINF:-1 tvg-logo="https://canalvisiondorada.com.co/wp-content/uploads/2023/07/ranchenato.png" group-title="TV | COLOMBIA", COL | RANCHENATO HD
 http://181.78.1.158:8000/play/a05o/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/CanalRCN2023a.png/revision/latest/scale-to-width-down/200?cb=20230620180649&path-prefix=es" group-title="TV | COLOMBIA", COL | RCN FHD
