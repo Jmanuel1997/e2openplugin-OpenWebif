@@ -14,7 +14,7 @@ http://proiptvdigic.com:8080/spainexchange/xdGNa4YjkEFp/332
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Baby_TV_2012.png/revision/latest/scale-to-width-down/250?cb=20180823145543&path-prefix=es" group-title="TV | COLOMBIA", COL | BABY TV HD
 http://proiptvdigic.com:8080/spainexchange/xdGNa4YjkEFp/1376
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Cablenoticias2015.png/revision/latest?cb=20210422011619&path-prefix=es" group-title="TV | COLOMBIA", COL | CABLE NOTICIAS FHD
-http://iptvtree.net:8080/iptveuro/P2aajUS4ejKhR5Ax/148933
+https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cadenaelite.es/img/logoMenu.png" group-title="TV | COLOMBIA", COL | CADENA ELITE FHD
 https://cloudvideo.servers10.com:8081/8004/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Cali_TV.png/revision/latest?cb=20210422013022&path-prefix=es" group-title="TV | COLOMBIA", COL | CALI TV HD
@@ -22,7 +22,7 @@ https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.canalcapital.gov.co/themes/custom/bootstrap_capital/source/images/Logo_Capital.png" group-title="TV | COLOMBIA", COL | CANAL CAPITAL FHD
 https://live-edge-eu-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/live-1500/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Se%C3%B1al_Institucional_logo.svg/800px-Se%C3%B1al_Institucional_logo.svg.png" group-title="TV | COLOMBIA", COL | CANAL INSTITUCIONAL HD
-http://iptvtree.net:8080/iptveuro/P2aajUS4ejKhR5Ax/8348
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/canal-mas-television-5347.jpg" group-title="TV | COLOMBIA", COL | CANAL MÁS HD
 https://movil.ejeserver.com/live/teledoradahd.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHU81AaGU6mO7FbujfLCfeI-kvc2Rn7uvCjg&usqp=CAU" group-title="TV | COLOMBIA", COL | CANAL TELEPALMAR HD
@@ -49,8 +49,6 @@ http://magmas5.com:8000/goodserver/2C4X1EC7EW/149687
 http://pastocnc1.ddns.net/pastocnc9/cnc9/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest/scale-to-width-down/250?cb=20210102195101&path-prefix=es" group-title="TV | COLOMBIA", COL | ESPN FHD
 http://proiptvdigic.com:8080/fer43092/yGFE5wmQDwxn/215001
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/CMB-TV-Colombia-en-vivo-Online.png?resize=1068%2C601&ssl=1" group-title="TV | COLOMBIA", COL | CMB TELEVISIÓN HD
-https://cdn-media-content.onestream.studio/content/hls/live/live_1884859_z6u4e1hge/hls.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/ESPN2_2006.svg/revision/latest/scale-to-width-down/284?cb=20200105155601&path-prefix=es" group-title="TV | COLOMBIA", COL | ESPN 2 FHD
 http://proiptvdigic.com:8080/fer43092/yGFE5wmQDwxn/215002
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="TV | COLOMBIA", COL | ESPN 3 FHD
@@ -92,8 +90,6 @@ http://5ab772334c39c.streamlock.net/live-univalle/_definst_/liveuniv1497/playlis
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/WinSports2022.png/revision/latest/scale-to-width-down/250?cb=20230109124705&path-prefix=es" group-title="TV | COLOMBIA", COL |  WIN SPORTS FHD
 http://proiptvdigic.com:8080/fer43092/yGFE5wmQDwxn/197665
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/WinSports%2B2022.png/revision/latest/scale-to-width-down/340?cb=20230109125452&path-prefix=es" group-title="TV | COLOMBIA", COL |  WIN SPORTS + FHD 
-http://iptvtree.net:8080/iptveuro/P2aajUS4ejKhR5Ax/294455
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/WinSports%2B2022.png/revision/latest/scale-to-width-down/340?cb=20230109125452&path-prefix=es" group-title="TV | COLOMBIA", COL |  WIN SPORTS + 2 FHD 
 http://proiptvdigic.com:8080/nova/PTvMaLYxKYmd/197668
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/WinSports%2B2022.png/revision/latest/scale-to-width-down/340?cb=20230109125452&path-prefix=es" group-title="TV | COLOMBIA", COL |  WIN SPORTS + 3 FHD 
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4330
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/WinSports%2B2022.png/revision/latest/scale-to-width-down/340?cb=20230109125452&path-prefix=es" group-title="TV | COLOMBIA", COL |  WIN SPORTS + 2 FHD 
+http://181.119.66.30:8000/play/a04q/index.m3u8
