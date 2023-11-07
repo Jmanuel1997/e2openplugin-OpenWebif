@@ -40,7 +40,7 @@ https://video13.virtualtronics.com/streamer/canal2_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/CaracolTelevisi%C3%B3n2023.png/revision/latest/scale-to-width-down/200?cb=20230109040049&path-prefix=es" group-title="TV | COLOMBIA", COL | CARACOL FHD
 http://proiptvdigic.com:8080/spainexchange/xdGNa4YjkEFp/221
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/CanalCaracolInternacional2023.png/revision/latest/scale-to-width-down/200?cb=20230210190133&path-prefix=es" group-title="TV | COLOMBIA", COL | CARACOL INTERNACIONAL HD
-http://iptvtree.net:8080/iptveuro/P2aajUS4ejKhR5Ax/8351
+https://mdstrm.com/live-stream-gdai/574463697b9817cf0886fc17/linear/hls/pa/event/3csP3jVSTr-D1F-4lpxWng/stream/c3339e35-4e18-4367-8bb0-ccb82b496b31:CHS/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest/scale-to-width-down/250?cb=20210820025220&path-prefix=es" group-title="TV | COLOMBIA", COL | CARTOON NETWORK HD
 https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/2560px-Cartoonito_-_Logo_2021.svg.png" group-title="TV | COLOMBIA", COL | CARTOONITO HD
@@ -57,6 +57,8 @@ http://181.78.1.158:8000/play/a026/index.m3u8
 http://181.78.1.158:8000/play/a02h/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png" group-title="TV | COLOMBIA", COL | ESPN EXTRA
 http://proiptvdigic.com:8080/fer43092/yGFE5wmQDwxn/218702
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" group-title="TV | COLOMBIA", COL | ESPN PREMIUM
+http://proiptvdigic.com:8080/fer43092/yGFE5wmQDwxn/218746
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/La_Kalle_Colombia_logo.svg/1200px-La_Kalle_Colombia_logo.svg.png" group-title="TV | COLOMBIA", COL | LA KALLE
 http://177.93.45.155:6143/play/a01e/index.m3u8
 #EXTINF:-1 tvg-logo="https://memorias.tv/wp-content/uploads/2022/03/cropped-logo-MEMORIAS-TV-png-1.png" group-title="TV | COLOMBIA", COL | MEMORIAS TV HD
