@@ -90,7 +90,7 @@ http://181.78.1.158:8000/play/a04w/index.m3u8
 #EXTINF:-1 tvg-logo="http://canal.univalle.edu.co/wp-content/uploads/2018/08/logo-webhj-2.gif" group-title="TV | COLOMBIA", COL | UNIVALLE HD
 http://5ab772334c39c.streamlock.net/live-univalle/_definst_/liveuniv1497/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/WinSports2022.png/revision/latest/scale-to-width-down/250?cb=20230109124705&path-prefix=es" group-title="TV | COLOMBIA", COL |  WIN SPORTS FHD
-http://proiptvdigic.com:8080/fer43092/yGFE5wmQDwxn/197665
+http://proiptvdigic.com:8080/nova/PTvMaLYxKYmd/197665
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/WinSports%2B2022.png/revision/latest/scale-to-width-down/340?cb=20230109125452&path-prefix=es" group-title="TV | COLOMBIA", COL |  WIN SPORTS + FHD 
 http://proiptvdigic.com:8080/nova/PTvMaLYxKYmd/197668
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/WinSports%2B2022.png/revision/latest/scale-to-width-down/340?cb=20230109125452&path-prefix=es" group-title="TV | COLOMBIA", COL |  WIN SPORTS + 2 FHD 
