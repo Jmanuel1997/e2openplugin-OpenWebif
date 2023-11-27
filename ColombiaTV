@@ -35,6 +35,8 @@ https://movil.ejeserver.com/live/visiondorada.m3u8
 https://kingtvplus.online:443/Julio/Julio/170171.ts
 #EXTINF:-1 tvg-logo="https://www.canal2.co/wp-content/uploads/2017/02/logo-2.png" group-title="TV | COLOMBIA", COL | CANAL 2 HD
 https://video13.virtualtronics.com/streamer/canal2_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.cantinatv.com/cantina%20tv.png" group-title="TV | COLOMBIA", COL | CANTINA TV HD
+https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/CaracolTelevisi%C3%B3n2023.png/revision/latest/scale-to-width-down/200?cb=20230109040049&path-prefix=es" group-title="TV | COLOMBIA", COL | CARACOL FHD
 https://kingtvplus.online:443/Julio/Julio/170174.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/CanalCaracolInternacional2023.png/revision/latest/scale-to-width-down/200?cb=20230210190133&path-prefix=es" group-title="TV | COLOMBIA", COL | CARACOL INTERNACIONAL HD
