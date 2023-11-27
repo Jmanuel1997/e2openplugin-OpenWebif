@@ -1,121 +1,93 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="CO | Cable Noticias HD" tvg-logo="http://castlempire.site:8080/images/544851c6c17d5b59f6fe22f223db85aa.png" group-title="Colombia",CO | Cable Noticias HD
-https://kingtvplus.online:443/Julio/Julio/170172.ts
-#EXTINF:-1 tvg-id="" tvg-name="CO | Cali TV" tvg-logo="http://castlempire.site:8080/images/dcc2f8419130c77cd0e1504cde178471.png" group-title="Colombia",CO | Cali TV
-https://kingtvplus.online:443/Julio/Julio/170168.ts
-#EXTINF:-1 tvg-id="" tvg-name="CO | Canal Capital HD" tvg-logo="http://castlempire.site:8080/images/0987908178d1e5f17998986820b42767.PNG" group-title="Colombia",CO | Canal Capital HD
-https://kingtvplus.online:443/Julio/Julio/170195.ts
-#EXTINF:-1 tvg-id="" tvg-name="CO | Canal Uno HD" tvg-logo="https://castlempire.site:443/images/199ce775f34f1e1bceffe0af5432270f.png" group-title="Colombia",CO | Canal Uno HD
+#EXTINF:-1 tvg-logo="https://alpavision.com.co/wp-content/uploads/elementor/thumbs/logo-alpasurfnet-ptemv9jy14zd3c631n1ix42fpen4fr6vri0v2havc0.png" group-title="TV | COLOMBIA", COL | ALPASURFNET FHD
+https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/AMC2019.png/revision/latest/scale-to-width-down/230?cb=20200111235406&path-prefix=es" group-title="TV | COLOMBIA", COL | AMC FHD
+https://kingtvplus.online:443/Julio/Julio/172747.ts
+#EXTINF:-1 tvg-logo="https://amordiscostv.com/wp-content/uploads/2022/08/thumbnail_Logo-Amordiscos-600x600-alpha.png" group-title="TV | COLOMBIA", COL | AMORDISCOS HD
+https://canal.mediaserver.com.co/live/canalamordiscos.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/ATN_Televisi%C3%B3n_logo.svg/1200px-ATN_Televisi%C3%B3n_logo.svg.png" group-title="TV | COLOMBIA", COL | ATN TV HD
+https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/AXN_2015.svg/revision/latest/scale-to-width-down/340?cb=20210405161841&path-prefix=es" group-title="TV | COLOMBIA", COL | AXN FHD
+https://kingtvplus.online:443/Julio/Julio/241160.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/A%26E_2008.svg/revision/latest/scale-to-width-down/250?cb=20200115014546&path-prefix=es" group-title="TV | COLOMBIA", COL | A&E FHD
+https://kingtvplus.online:443/Julio/Julio/241159.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Baby_TV_2012.png/revision/latest/scale-to-width-down/250?cb=20180823145543&path-prefix=es" group-title="TV | COLOMBIA", COL | BABY TV HD
+https://kingtvplus.online:443/Julio/Julio/173878.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Cablenoticias2015.png/revision/latest?cb=20210422011619&path-prefix=es" group-title="TV | COLOMBIA", COL | CABLE NOTICIAS FHD
+https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cadenaelite.es/img/logoMenu.png" group-title="TV | COLOMBIA", COL | CADENA ELITE FHD
+https://cloudvideo.servers10.com:8081/8004/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Cali_TV.png/revision/latest?cb=20210422013022&path-prefix=es" group-title="TV | COLOMBIA", COL | CALI TV HD
+https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.canalcapital.gov.co/themes/custom/bootstrap_capital/source/images/Logo_Capital.png" group-title="TV | COLOMBIA", COL | CANAL CAPITAL FHD
+https://live-edge-eu-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/live-1500/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Se%C3%B1al_Institucional_logo.svg/800px-Se%C3%B1al_Institucional_logo.svg.png" group-title="TV | COLOMBIA", COL | CANAL INSTITUCIONAL HD
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/canal-mas-television-5347.jpg" group-title="TV | COLOMBIA", COL | CANAL MÁS HD
+https://movil.ejeserver.com/live/teledoradahd.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHU81AaGU6mO7FbujfLCfeI-kvc2Rn7uvCjg&usqp=CAU" group-title="TV | COLOMBIA", COL | CANAL TELEPALMAR HD
+https://play.amelbasoluciones.co:3976/live/telepalmartvlive.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/80/Canal_TRO_2020.png/revision/latest/scale-to-width-down/250?cb=20200921160343&path-prefix=es" group-title="TV | COLOMBIA", COL | CANAL TRO HD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/215911
+#EXTINF:-1 tvg-logo="https://canalvisiondorada.com.co/wp-content/uploads/2019/10/NUEVO-LOGO-CANAL-VISION-DORADA-negro_mini.png" group-title="TV | COLOMBIA", COL | CANAL VISIÓN DORADA HD
+https://movil.ejeserver.com/live/visiondorada.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Definitive-logo-Canal-Uno-2017.svg/revision/latest/scale-to-width-down/180?cb=20210426210133&path-prefix=es" group-title="TV | COLOMBIA", COL | CANAL 1 FHD
 https://kingtvplus.online:443/Julio/Julio/170171.ts
-#EXTINF:-1 tvg-id="" tvg-name="CO | Caracol FHD" tvg-logo="https://castlempire.site:443/images/c5a60f85dcab6d225ffb33c4d3d6cd51.png" group-title="Colombia",CO | Caracol FHD
+#EXTINF:-1 tvg-logo="https://www.canal2.co/wp-content/uploads/2017/02/logo-2.png" group-title="TV | COLOMBIA", COL | CANAL 2 HD
+https://video13.virtualtronics.com/streamer/canal2_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/CaracolTelevisi%C3%B3n2023.png/revision/latest/scale-to-width-down/200?cb=20230109040049&path-prefix=es" group-title="TV | COLOMBIA", COL | CARACOL FHD
 https://kingtvplus.online:443/Julio/Julio/170174.ts
-#EXTINF:-1 tvg-id="" tvg-name="CO | Caracol FHD OPC 3" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b0/Caracoltv2017bluefondit.png/revision/latest?cb=20171007174800" group-title="Colombia",CO | Caracol FHD OPC 3
-https://kingtvplus.online:443/Julio/Julio/170193.ts
-#EXTINF:-1 tvg-id="" tvg-name="CO | Caracol HD" tvg-logo="https://castlempire.site:443/images/c5a60f85dcab6d225ffb33c4d3d6cd51.png" group-title="Colombia",CO | Caracol HD
-https://kingtvplus.online:443/Julio/Julio/170190.ts
-#EXTINF:-1 tvg-id="" tvg-name="CO | Caracol Internacional HD" tvg-logo="http://castlempire.site:8080/images/576637a630e639042c902c5098d49f58.png" group-title="Colombia",CO | Caracol Internacional HD
-https://kingtvplus.online:443/Julio/Julio/170175.ts
-#EXTINF:-1 tvg-id="" tvg-name="CO | Caracol Señal SD" tvg-logo="http://castlempire.site:8080/images/6cb72e800b76f7b8568cdaab2555c349.png" group-title="Colombia",CO | Caracol Señal SD
-https://kingtvplus.online:443/Julio/Julio/170189.ts
-#EXTINF:-1 tvg-id="" tvg-name="CO | City TV" tvg-logo="http://castlempire.site:8080/images/3f0a110ad68db06ee7b3a9691b9835d1.png" group-title="Colombia",CO | City TV
-https://kingtvplus.online:443/Julio/Julio/170176.ts
-#EXTINF:-1 tvg-id="" tvg-name="CO | Cosmovision" tvg-logo="https://castlempire.site:443/images/bbc17a6f9df406888a20a0becf4c18af.png" group-title="Colombia",CO | Cosmovision
-https://kingtvplus.online:443/Julio/Julio/170177.ts
-#EXTINF:-1 tvg-id="" tvg-name="CO | El Tiempo" tvg-logo="https://castlempire.site:443/images/4083b8561354b5447b217706da20b9ca.png" group-title="Colombia",CO | El Tiempo
-https://kingtvplus.online:443/Julio/Julio/170179.ts
-#EXTINF:-1 tvg-id="" tvg-name="CO | La Kalle HD" tvg-logo="https://castlempire.site:443/images/1b69915eae6ab1c91a24f150e1d7637b.png" group-title="Colombia",CO | La Kalle HD
-https://kingtvplus.online:443/Julio/Julio/170173.ts
-#EXTINF:-1 tvg-id="" tvg-name="CO | RCN FHD" tvg-logo="http://castlempire.site:8080/images/99286ce4a7f4704e9398f70ac2d41c60.png" group-title="Colombia",CO | RCN FHD
-https://kingtvplus.online:443/Julio/Julio/170180.ts
-#EXTINF:-1 tvg-id="" tvg-name="CO | RCN HD" tvg-logo="http://castlempire.site:8080/images/99286ce4a7f4704e9398f70ac2d41c60.png" group-title="Colombia",CO | RCN HD
-https://kingtvplus.online:443/Julio/Julio/170170.ts
-#EXTINF:-1 tvg-id="" tvg-name="CO | RCN HD OPC 2" tvg-logo="https://castlempire.site:443/images/704e492a4ed4930d4f93d73abd8b4ea3.png" group-title="Colombia",CO | RCN HD OPC 2
-https://kingtvplus.online:443/Julio/Julio/170181.ts
-#EXTINF:-1 tvg-id="" tvg-name="CO | RCN Internacional" tvg-logo="http://castlempire.site:8080/images/90fcbeb4792a640e220c8e8c54aefd49.png" group-title="Colombia",CO | RCN Internacional
-https://kingtvplus.online:443/Julio/Julio/170201.ts
-#EXTINF:-1 tvg-id="" tvg-name="CO | RCN Novelas" tvg-logo="https://castlempire.site:443/images/56369c1b93a5d88f07eecb7bd6d03ea5.png" group-title="Colombia",CO | RCN Novelas
-https://kingtvplus.online:443/Julio/Julio/170200.ts
-#EXTINF:-1 tvg-id="" tvg-name="CO | RCN SD" tvg-logo="http://castlempire.site:8080/images/99286ce4a7f4704e9398f70ac2d41c60.png" group-title="Colombia",CO | RCN SD
-https://kingtvplus.online:443/Julio/Julio/170194.ts
-#EXTINF:-1 tvg-id="" tvg-name="CO | Senal Colombia HD" tvg-logo="http://castlempire.site:8080/images/ca52753c8de536bf2521db6a2e6883b9.png" group-title="Colombia",CO | Senal Colombia HD
-https://kingtvplus.online:443/Julio/Julio/170182.ts
-#EXTINF:-1 tvg-id="" tvg-name="CO | TeleAntioquia HD" tvg-logo="http://castlempire.site:8080/images/812ee84134effa538de8b2fd7cbb27c2.jpg" group-title="Colombia",CO | TeleAntioquia HD
-https://kingtvplus.online:443/Julio/Julio/170183.ts
-#EXTINF:-1 tvg-id="" tvg-name="CO | TeleCafe" tvg-logo="https://castlempire.site:443/images/7cf943f351c6fb79b2f49921fc8dbf95.png" group-title="Colombia",CO | TeleCafe
-https://kingtvplus.online:443/Julio/Julio/170184.ts
-#EXTINF:-1 tvg-id="" tvg-name="CO | Telecaribe HD" tvg-logo="http://castlempire.site:8080/images/e1c2e76f17180afd13459618a499acf2.png" group-title="Colombia",CO | Telecaribe HD
-https://kingtvplus.online:443/Julio/Julio/170185.ts
-#EXTINF:-1 tvg-id="" tvg-name="CO | TeleMedellin HD" tvg-logo="http://castlempire.site:8080/images/ece007d1a4f502c9789c32ed5f4688b1.png" group-title="Colombia",CO | TeleMedellin HD
-https://kingtvplus.online:443/Julio/Julio/170192.ts
-#EXTINF:-1 tvg-id="" tvg-name="CO | TelePacifico HD" tvg-logo="http://castlempire.site:8080/images/a46041c80eb36fde5d48c1f04f210714.png" group-title="Colombia",CO | TelePacifico HD
-https://kingtvplus.online:443/Julio/Julio/170186.ts
-#EXTINF:-1 tvg-id="" tvg-name="CO | WIN SPORTS + HD OPC 1 (E)" tvg-logo="https://castlempire.site:443/images/b63763136e483103c9c22e9221115f48.png" group-title="**LIGA COLOMBIA**⚽",CO | WIN SPORTS + HD OPC 1 (E)
-https://kingtvplus.online:443/Julio/Julio/170198.ts
-#EXTINF:-1 tvg-id="" tvg-name="CO | WIN SPORTS + HD OPC 3" tvg-logo="http://castlempire.site:8080/images/9fe63cc4267703bcae59abb531ff22e6.png" group-title="**LIGA COLOMBIA**⚽",CO | WIN SPORTS + HD OPC 3
-https://kingtvplus.online:443/Julio/Julio/170197.ts
-#EXTINF:-1 tvg-id="" tvg-name="CO | WIN SPORTS + SD" tvg-logo="http://castlempire.site:8080/images/9fe63cc4267703bcae59abb531ff22e6.png" group-title="**LIGA COLOMBIA**⚽",CO | WIN SPORTS + SD
-https://kingtvplus.online:443/Julio/Julio/170199.ts
-#EXTINF:-1 tvg-id="" tvg-name="CO | WinSports  FHD (L)" tvg-logo="http://castlempire.site:8080/images/614360d1b9309d18b47be08cb5aadc55.jpg" group-title="**LIGA COLOMBIA**⚽",CO | WinSports  FHD (L)
-https://kingtvplus.online:443/Julio/Julio/170167.ts
-#EXTINF:-1 tvg-id="" tvg-name="CO | WinSports FHD" tvg-logo="http://castlempire.site:8080/images/27a0c2e8f39a80b75cd6053efb10a90b.png" group-title="**LIGA COLOMBIA**⚽",CO | WinSports FHD
-https://kingtvplus.online:443/Julio/Julio/170191.ts
-#EXTINF:-1 tvg-id="" tvg-name="CO | WinSports FHD OPC 2" tvg-logo="http://castlempire.site:8080/images/99f478d47d2fce632dcc54aa7502093f.png" group-title="**LIGA COLOMBIA**⚽",CO | WinSports FHD OPC 2
-https://kingtvplus.online:443/Julio/Julio/170188.ts
-#EXTINF:-1 tvg-id="" tvg-name="CO | WinSports HD" tvg-logo="http://castlempire.site:8080/images/99f478d47d2fce632dcc54aa7502093f.png" group-title="**LIGA COLOMBIA**⚽",CO | WinSports HD
-https://kingtvplus.online:443/Julio/Julio/170187.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cocina Abierta" tvg-logo="http://castlempire.site:8080/images/478679a8838f98cd91d344c91e002ceb.png" group-title="24/7 PRIME GOURMET",Cocina Abierta
-https://kingtvplus.online:443/Julio/Julio/194762.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cocina Real" tvg-logo="http://castlempire.site:8080/images/949ac01aadfcc511426adde5856b244a.png" group-title="24/7 PRIME GOURMET",Cocina Real
-https://kingtvplus.online:443/Julio/Julio/194764.ts
-#EXTINF:-1 tvg-id="" tvg-name="COL | DIRECTV SPORTS 2 HD" tvg-logo="https://castlempire.site:443/images/b0509397f597b02760c93778e3832cb5.jpg" group-title="Colombia",COL | DIRECTV SPORTS 2 HD
-https://kingtvplus.online:443/Julio/Julio/193688.ts
-#EXTINF:-1 tvg-id="" tvg-name="COL | WIN SPORTS + SD" tvg-logo="http://castlempire.site:8080/images/9088781d26bda5bd295390c15f23dbee.png" group-title="**LIGA COLOMBIA**⚽",COL | WIN SPORTS + SD
-https://kingtvplus.online:443/Julio/Julio/178302.ts
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA - LS | WIN SPORTS + HD OPC 1 (E)" tvg-logo="http://castlempire.site:8080/images/a563a7ad49c9524d48b32b7195a7120c.jpg" group-title="**LIGAS DE SUDAMERICA**⚽",COLOMBIA - LS | WIN SPORTS + HD OPC 1 (E)
-https://kingtvplus.online:443/Julio/Julio/176385.ts
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA - LS | WIN SPORTS + HD OPC 2" tvg-logo="http://castlempire.site:8080/images/a563a7ad49c9524d48b32b7195a7120c.jpg" group-title="**LIGAS DE SUDAMERICA**⚽",COLOMBIA - LS | WIN SPORTS + HD OPC 2
-https://kingtvplus.online:443/Julio/Julio/176386.ts
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA - LS | WIN SPORTS + HD OPC 3" tvg-logo="http://castlempire.site:8080/images/a563a7ad49c9524d48b32b7195a7120c.jpg" group-title="**LIGAS DE SUDAMERICA**⚽",COLOMBIA - LS | WIN SPORTS + HD OPC 3
-https://kingtvplus.online:443/Julio/Julio/176387.ts
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | Cable Noticias HD" tvg-logo="http://castlempire.site:8080/images/59b514174bffe4ae402b3d63aad79fe0.png" group-title="Colombia OP2",COLOMBIA | Cable Noticias HD
-https://kingtvplus.online:443/Julio/Julio/172497.ts
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | Canal Uno HD" tvg-logo="http://castlempire.site:8080/images/0200abb799a26158456f814660ab30eb.png" group-title="Colombia OP2",COLOMBIA | Canal Uno HD
-https://kingtvplus.online:443/Julio/Julio/172496.ts
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | Caracol FHD" tvg-logo="https://castlempire.site:443/images/3a4a6b558c4dba03ed3e3741e434d90f.png" group-title="Colombia OP2",COLOMBIA | Caracol FHD
-https://kingtvplus.online:443/Julio/Julio/172499.ts
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | Caracol FHD OPC 2" tvg-logo="http://castlempire.site:8080/images/6c7598053dd2312321525e2110821ea5.png" group-title="Colombia OP2",COLOMBIA | Caracol FHD OPC 2
-https://kingtvplus.online:443/Julio/Julio/172514.ts
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | Caracol HD" tvg-logo="http://castlempire.site:8080/images/6c7598053dd2312321525e2110821ea5.png" group-title="Colombia OP2",COLOMBIA | Caracol HD
-https://kingtvplus.online:443/Julio/Julio/172515.ts
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | Caracol Internacional HD" tvg-logo="http://castlempire.site:8080/images/d0c6e62b3668a3285e4712b9544118e2.png" group-title="Colombia OP2",COLOMBIA | Caracol Internacional HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/CanalCaracolInternacional2023.png/revision/latest/scale-to-width-down/200?cb=20230210190133&path-prefix=es" group-title="TV | COLOMBIA", COL | CARACOL INTERNACIONAL HD
 https://kingtvplus.online:443/Julio/Julio/172500.ts
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | City TV" tvg-logo="http://castlempire.site:8080/images/887e509eb949dfeef7d3f7db5850d121.png" group-title="Colombia OP2",COLOMBIA | City TV
-https://kingtvplus.online:443/Julio/Julio/172501.ts
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | El Tiempo" tvg-logo="http://latamvision.com/wp-content/uploads/2018/09/tvclombiaetvv.png" group-title="Colombia OP2",COLOMBIA | El Tiempo
-https://kingtvplus.online:443/Julio/Julio/172504.ts
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | La Kalle HD" tvg-logo="https://castlempire.site:443/images/dc673ebbf1cfbddbae37dc0cebd6aa3f.png" group-title="Colombia OP2",COLOMBIA | La Kalle HD
-https://kingtvplus.online:443/Julio/Julio/172498.ts
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | RCN FHD" tvg-logo="http://castlempire.site:8080/images/e8bd4a71429b1b28033608322344636a.png" group-title="Colombia OP2",COLOMBIA | RCN FHD
-https://kingtvplus.online:443/Julio/Julio/172505.ts
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | RCN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/RCN_Televisi%C3%B3n_logo.svg/1280px-RCN_Televisi%C3%B3n_logo.svg.png" group-title="Colombia OP2",COLOMBIA | RCN HD
-https://kingtvplus.online:443/Julio/Julio/172495.ts
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | RCN Novelas" tvg-logo="http://castlempire.site:8080/images/68ade28e1b5c15530c319037aabee828.png" group-title="Colombia OP2",COLOMBIA | RCN Novelas
-https://kingtvplus.online:443/Julio/Julio/172525.ts
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | RCN SD" tvg-logo="http://castlempire.site:8080/images/e8bd4a71429b1b28033608322344636a.png" group-title="Colombia OP2",COLOMBIA | RCN SD
-https://kingtvplus.online:443/Julio/Julio/172519.ts
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | TeleCafe" tvg-logo="http://castlempire.site:8080/images/ec81118a6a63ee326e0f8d5760b72430.png" group-title="Colombia OP2",COLOMBIA | TeleCafe
-https://kingtvplus.online:443/Julio/Julio/172509.ts
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | Telecaribe HD" tvg-logo="http://castlempire.site:8080/images/e5c4156e858e48d0bd50ee6d9e3ff4c6.png" group-title="Colombia OP2",COLOMBIA | Telecaribe HD
-https://kingtvplus.online:443/Julio/Julio/172510.ts
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | TeleMedellin HD" tvg-logo="https://castlempire.site:443/images/337fc47f34b1046ae2feb2e27dcc0cf8.png" group-title="Colombia OP2",COLOMBIA | TeleMedellin HD
-https://kingtvplus.online:443/Julio/Julio/172517.ts
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | WIN SPORTS + HD OPC 3" tvg-logo="http://castlempire.site:8080/images/2d7e5663f78f571b110dc2a2d33cc9a3.png" group-title="Colombia OP2",COLOMBIA | WIN SPORTS + HD OPC 3
-https://kingtvplus.online:443/Julio/Julio/172522.ts
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | WIN SPORTS + SD" tvg-logo="https://castlempire.site:443/images/97773cae86df6a92deca72744113f1b9.png" group-title="Colombia OP2",COLOMBIA | WIN SPORTS + SD
-https://kingtvplus.online:443/Julio/Julio/172523.ts
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | WinSports FHD" tvg-logo="http://castlempire.site:8080/images/547e3ea3aad3b8547b27abce65489031.png" group-title="Colombia OP2",COLOMBIA | WinSports FHD
-https://kingtvplus.online:443/Julio/Julio/172516.ts
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | WinSports FHD OPC 2" tvg-logo="http://castlempire.site:8080/images/50fb0b7d12ed40d21c89387f4e561e99.png" group-title="Colombia OP2",COLOMBIA | WinSports FHD OPC 2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest/scale-to-width-down/250?cb=20210820025220&path-prefix=es" group-title="TV | COLOMBIA", COL | CARTOON NETWORK HD
+https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/2560px-Cartoonito_-_Logo_2021.svg.png" group-title="TV | COLOMBIA", COL | CARTOONITO HD
+https://kingtvplus.online:443/Julio/Julio/214666.ts
+#EXTINF:-1 tvg-logo="http://www.cncpasto.com/wp-content/uploads/2018/04/Untitled-1.png" group-title="TV | COLOMBIA", COL | CNC PASTO HD
+http://pastocnc1.ddns.net/pastocnc9/cnc9/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest/scale-to-width-down/250?cb=20210102195101&path-prefix=es" group-title="TV | COLOMBIA", COL | ESPN FHD
+https://kingtvplus.online:443/Julio/Julio/241157.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/ESPN2_2006.svg/revision/latest/scale-to-width-down/284?cb=20200105155601&path-prefix=es" group-title="TV | COLOMBIA", COL | ESPN 2 FHD
+https://kingtvplus.online:443/Julio/Julio/241177.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="TV | COLOMBIA", COL | ESPN 3 FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/185665
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1024px-ESPN_4_logo.svg.png" group-title="TV | COLOMBIA", COL | ESPN 4 FHD
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/224430
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png" group-title="TV | COLOMBIA", COL | ESPN EXTRA
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/439755
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" group-title="TV | COLOMBIA", COL | ESPN PREMIUM
+http://home-playtv.com:8080/Granav803/S032PEWQQDxm/276163
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/La_Kalle_Colombia_logo.svg/1200px-La_Kalle_Colombia_logo.svg.png" group-title="TV | COLOMBIA", COL | LA KALLE
+http://177.93.45.155:6143/play/a01e/index.m3u8
+#EXTINF:-1 tvg-logo="https://memorias.tv/wp-content/uploads/2022/03/cropped-logo-MEMORIAS-TV-png-1.png" group-title="TV | COLOMBIA", COL | MEMORIAS TV HD
+https://mediacp.us:8081/8002/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.ondambientalstereo.com/gallery_gen/69debe87b6cad2b71120d45442c041f8_1250x1301.4705882353.png" group-title="TV | COLOMBIA", COL | ONDAMBIENTAL SD
+https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/jS5ZpD_XyWo_7yKPkRYbJ9OvNE4P1KFuEfP93Nexj2-cIeTsI1mDFPnnONXrMIilfJc" group-title="TV | COLOMBIA", COL | OXIGENO NETWORK HD
+https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://canalvisiondorada.com.co/wp-content/uploads/2023/07/ranchenato.png" group-title="TV | COLOMBIA", COL | RANCHENATO HD
+http://181.78.1.158:8000/play/a05o/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/CanalRCN2023a.png/revision/latest/scale-to-width-down/200?cb=20230620180649&path-prefix=es" group-title="TV | COLOMBIA", COL | RCN FHD
+https://kingtvplus.online:443/Julio/Julio/170181.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="TV | COLOMBIA", COL | RCN MÁS FHD
+https://rcntv-rcnmas-1-us.plex.wurl.tv/4300.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/CanalRCNNovelas2019.png/revision/latest/scale-to-width-down/190?cb=20210307131301&path-prefix=es" group-title="TV | COLOMBIA", COL | RCN NOVELAS HD
+https://kingtvplus.online:443/Julio/Julio/170200.ts
+#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/rcn-xtra_2.jpg" group-title="TV | COLOMBIA", COL | RCN XTRA
+https://latv-rcn-xtra-1-mx.tcl.wurl.tv/4300.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/V2yc9L2/Canal-CNC-Sentimiento-Vallenato-tvtolive-com.jpg" group-title="TV | COLOMBIA", COL | SENTIMIENTO VALLENATO HD
+https://hvtraficonew.ddns.net/pastocnc4/cnc4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YT9Lc0P/Soncorazonlogo.png" group-title="TV | COLOMBIA", COL | SON CORAZON HD
+https://hvtraficonew.ddns.net/pastocnc3/cnc3/playlist.m3u8
+#EXTINF:-1 tvg-logo="tvg-logo="https://i.ibb.co/zHLpHyq/Canal-CNC-Son-Latino-tvtolive-com.jpg" group-title="TV | COLOMBIA", COL | SON LATINO HD
+https://hvtraficonew.ddns.net/pastocnc2/cnc2/playlist.m3u8
+#EXTINF:-1 tvg-logo=" tvg-logo="https://i.ibb.co/MBQyccq/Canal-CNC-Son-Popular-tvtolive-com.jpg" group-title="TV | COLOMBIA", COL | SON POPULAR
+https://hvtraficonew.ddns.net/pastocnc7/cnc7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/TeleNostalgia-2014.png/revision/latest/scale-to-width-down/220?cb=20210517030638&path-prefix=es" group-title="TV | COLOMBIA", COL | TELENOSTALGIA HD
+http://181.78.1.158:8000/play/a04w/index.m3u8
+#EXTINF:-1 tvg-logo="http://canal.univalle.edu.co/wp-content/uploads/2018/08/logo-webhj-2.gif" group-title="TV | COLOMBIA", COL | UNIVALLE HD
+http://5ab772334c39c.streamlock.net/live-univalle/_definst_/liveuniv1497/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/WinSports2022.png/revision/latest/scale-to-width-down/250?cb=20230109124705&path-prefix=es" group-title="TV | COLOMBIA", COL |  WIN SPORTS FHD
 https://kingtvplus.online:443/Julio/Julio/172513.ts
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | WinSports HD" tvg-logo="http://castlempire.site:8080/images/50fb0b7d12ed40d21c89387f4e561e99.png" group-title="Colombia OP2",COLOMBIA | WinSports HD
-https://kingtvplus.online:443/Julio/Julio/172512.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/WinSports%2B2022.png/revision/latest/scale-to-width-down/340?cb=20230109125452&path-prefix=es" group-title="TV | COLOMBIA", COL |  WIN SPORTS + FHD 
+https://kingtvplus.online:443/Julio/Julio/170198.ts
