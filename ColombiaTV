@@ -38,7 +38,7 @@ https://video13.virtualtronics.com/streamer/canal2_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.cantinatv.com/cantina%20tv.png" group-title="TV | COLOMBIA", COL | CANTINA TV HD
 https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/CaracolTelevisi%C3%B3n2023.png/revision/latest/scale-to-width-down/200?cb=20230109040049&path-prefix=es" group-title="TV | COLOMBIA", COL | CARACOL FHD
-https://kingtvplus.online:443/Julio/Julio/170174.ts
+http://181.78.1.158:8000/play/a05t/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/CanalCaracolInternacional2023.png/revision/latest/scale-to-width-down/200?cb=20230210190133&path-prefix=es" group-title="TV | COLOMBIA", COL | CARACOL INTERNACIONAL HD
 https://kingtvplus.online:443/Julio/Julio/172500.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest/scale-to-width-down/250?cb=20210820025220&path-prefix=es" group-title="TV | COLOMBIA", COL | CARTOON NETWORK HD
@@ -70,13 +70,15 @@ https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://canalvisiondorada.com.co/wp-content/uploads/2023/07/ranchenato.png" group-title="TV | COLOMBIA", COL | RANCHENATO HD
 http://181.78.1.158:8000/play/a05o/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/CanalRCN2023a.png/revision/latest/scale-to-width-down/200?cb=20230620180649&path-prefix=es" group-title="TV | COLOMBIA", COL | RCN FHD
-https://kingtvplus.online:443/Julio/Julio/170181.ts
+http://181.78.1.158:8000/play/a05x/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="TV | COLOMBIA", COL | RCN MÁS FHD
 https://rcntv-rcnmas-1-us.plex.wurl.tv/4300.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/CanalRCNNovelas2019.png/revision/latest/scale-to-width-down/190?cb=20210307131301&path-prefix=es" group-title="TV | COLOMBIA", COL | RCN NOVELAS HD
 https://kingtvplus.online:443/Julio/Julio/170200.ts
 #EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/rcn-xtra_2.jpg" group-title="TV | COLOMBIA", COL | RCN XTRA
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/4300.m3u8
+#EXTINF:-1 tvg-logo="https://masmediatv.es/images/2021/colombia/canales-Rumbatv.png" group-title="TV | COLOMBIA", COL | RUMBA TV
+http://181.78.1.158:8000/play/a04v/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/V2yc9L2/Canal-CNC-Sentimiento-Vallenato-tvtolive-com.jpg" group-title="TV | COLOMBIA", COL | SENTIMIENTO VALLENATO HD
 https://hvtraficonew.ddns.net/pastocnc4/cnc4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YT9Lc0P/Soncorazonlogo.png" group-title="TV | COLOMBIA", COL | SON CORAZON HD
@@ -94,4 +96,4 @@ https://kingtvplus.online:443/Julio/Julio/172513.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/WinSports%2B2022.png/revision/latest/scale-to-width-down/340?cb=20230109125452&path-prefix=es" group-title="TV | COLOMBIA", COL |  WIN SPORTS + FHD 
 https://kingtvplus.online:443/Julio/Julio/176385.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/WinSports%2B2022.png/revision/latest/scale-to-width-down/340?cb=20230109125452&path-prefix=es" group-title="TV | COLOMBIA", COL |  WIN SPORTS + 2 FHD 
-http://home-playtv.com:8080/Granav803/S032PEWQQDxm/516929
+http://181.78.1.158:8000/play/a02u/index.m3u8
