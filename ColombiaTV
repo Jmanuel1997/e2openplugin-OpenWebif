@@ -95,6 +95,8 @@ http://181.78.1.158:8000/play/a04w/index.m3u8
 http://5ab772334c39c.streamlock.net/live-univalle/_definst_/liveuniv1497/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/WinSports2022.png/revision/latest/scale-to-width-down/250?cb=20230109124705&path-prefix=es" group-title="TV | COLOMBIA", COL |  WIN SPORTS FHD
 http://xloxttv.info:8080/spainexchange/xdGNa4YjkEFp/197665
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/WinSports2022.png/revision/latest/scale-to-width-down/250?cb=20230109124705&path-prefix=es" group-title="TV | COLOMBIA", COL |  WIN SPORTS 2 FHD
+http://cdn1host.online:2999/Jaley1990/L6KomjzBxv/297
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/WinSports%2B2022.png/revision/latest/scale-to-width-down/340?cb=20230109125452&path-prefix=es" group-title="TV | COLOMBIA", COL |  WIN SPORTS + FHD 
 http://xloxttv.info:8080/spainexchange/xdGNa4YjkEFp/197668
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/WinSports%2B2022.png/revision/latest/scale-to-width-down/340?cb=20230109125452&path-prefix=es" group-title="TV | COLOMBIA", COL |  WIN SPORTS + 2 FHD 
