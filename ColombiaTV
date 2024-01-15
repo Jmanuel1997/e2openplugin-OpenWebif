@@ -61,6 +61,10 @@ http://pltvsu.info:80/tviritv/td6522SNAtHt/218702
 http://pltvsu.info:80/tviritv/td6522SNAtHt/218746
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/imagenes.conexioncapital.co/wp-content/uploads/2021/06/29232153/logo-eureka-new-1.png" group-title="TV | COLOMBIA", COL | EUREKA TV HD
 https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/022/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png" group-title="TV | COLOMBIA", COL | HTV FHD
+http://api.best-dtv.com:8080/FMAe9MWVX8/sjduf7sks8fd7j/2741
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png" group-title="TV | COLOMBIA", COL | MC Musica Urbana
+http://api.best-dtv.com:8080/FMAe9MWVX8/sjduf7sks8fd7j/85192
 #EXTINF:-1 tvg-logo="https://memorias.tv/wp-content/uploads/2022/03/cropped-logo-MEMORIAS-TV-png-1.png" group-title="TV | COLOMBIA", COL | MEMORIAS TV HD
 https://mediacp.us:8081/8002/index.m3u8
 #EXTINF:-1 tvg-logo="https://90minutos.co/wp-content/themes/90min-theme/img/logo-90-minutos.png" group-title="TV | COLOMBIA", COL | NOTICIERO 90 MINUTOS HD
@@ -97,17 +101,31 @@ http://pltvsu.info:8080/tviritv/td6522SNAtHt/413
 http://pltvsu.info:8080/tviritv/td6522SNAtHt/83482
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/61a456_4286e3d98179404e9484ca04027d0c59~mv2.png/v1/crop/x_0,y_24,w_1751,h_1607/fill/w_144,h_132,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TELECARIBE-LOGO-2023.png" group-title="TV | COLOMBIA", COL | TELECARIBE HD
 http://pltvsu.info:8080/tviritv/td6522SNAtHt/414
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Telehit_M%C3%BAsica_logo.png" group-title="TV | COLOMBIA", COL | TELEHIT MUSICA HD
+http://daleplay.club:8080/Lairnd94847jw/Nerv727363as/312831
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Telehit_M%C3%BAsica_Plus_logo.png" group-title="TV | COLOMBIA", COL | TELEHIT MUSICA PLUS FHD
+http://api.best-dtv.com:8080/FMAe9MWVX8/sjduf7sks8fd7j/9615
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Logotipo_de_Telemedell%C3%ADn.png/300px-Logotipo_de_Telemedell%C3%ADn.png" group-title="TV | COLOMBIA", COL |  TELEMEDELLIN HD
 http://daleplay.club:8080/Lairnd94847jw/Nerv727363as/69284
 #EXTINF:-1 tvg-logo="https://telepacifico.com/dev/wp-content/uploads/2022/11/TELEPACIFICO-35-ANOS-LOGO.png" group-title="TV | COLOMBIA", COL | TELEPACIFICO
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/WinSports2022.png/revision/latest/scale-to-width-down/250?cb=20230109124705&path-prefix=es" group-title="TV | COLOMBIA", COL |  WIN SPORTS FHD
-http://sdmx.vip:8080/belpley/sYqKZQrTZa/176587
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/WinSports2022.png/revision/latest/scale-to-width-down/250?cb=20230109124705&path-prefix=es" group-title="TV | COLOMBIA", COL |  WIN SPORTS 2 FHD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/WinSports2022.png/revision/latest/scale-to-width-down/250?cb=20230109124705&path-prefix=es" group-title="TV | COLOMBIA", COL |  WIN SPORTS¹ FHD
+http://api.best-dtv.com:8080/FMAe9MWVX8/sjduf7sks8fd7j/84037
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/WinSports2022.png/revision/latest/scale-to-width-down/250?cb=20230109124705&path-prefix=es" group-title="TV | COLOMBIA", COL |  WIN SPORTS² FHD
+http://th4.online:2095/WARNER56/PANAIPTV/133287
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/WinSports2022.png/revision/latest/scale-to-width-down/250?cb=20230109124705&path-prefix=es" group-title="TV | COLOMBIA", COL |  WIN SPORTS³ FHD
 http://daleplay.club:8080/Lairnd94847jw/Nerv727363as/130420
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/WinSports%2B2022.png/revision/latest/scale-to-width-down/340?cb=20230109125452&path-prefix=es" group-title="TV | COLOMBIA", COL |  WIN SPORTS + FHD 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/WinSports2022.png/revision/latest/scale-to-width-down/250?cb=20230109124705&path-prefix=es" group-title="TV | COLOMBIA", COL |  WIN SPORTS 4K¹
+http://daleplay.club:8080/Lairnd94847jw/Nerv727363as/156192
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/WinSports2022.png/revision/latest/scale-to-width-down/250?cb=20230109124705&path-prefix=es" group-title="TV | COLOMBIA", COL |  WIN SPORTS 4K²
+http://pltvsu.info:8080/tviritv/td6522SNAtHt/197665
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/WinSports%2B2022.png/revision/latest/scale-to-width-down/340?cb=20230109125452&path-prefix=es" group-title="TV | COLOMBIA", COL |  WIN SPORTS +¹ FHD 
 http://sdmx.vip:8080/belpley/sYqKZQrTZa/155248
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/WinSports%2B2022.png/revision/latest/scale-to-width-down/340?cb=20230109125452&path-prefix=es" group-title="TV | COLOMBIA", COL |  WIN SPORTS + 4K  
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/WinSports%2B2022.png/revision/latest/scale-to-width-down/340?cb=20230109125452&path-prefix=es" group-title="TV | COLOMBIA", COL |  WIN SPORTS +² FHD
+http://pltvsu.info:8080/tviritv/td6522SNAtHt/197667
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/WinSports%2B2022.png/revision/latest/scale-to-width-down/340?cb=20230109125452&path-prefix=es" group-title="TV | COLOMBIA", COL |  WIN SPORTS +³FHD 
+http://api.best-dtv.com:8080/FMAe9MWVX8/sjduf7sks8fd7j/84038
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/WinSports%2B2022.png/revision/latest/scale-to-width-down/340?cb=20230109125452&path-prefix=es" group-title="TV | COLOMBIA", COL |  WIN SPORTS + 4K¹
 http://daleplay.club:8080/Lairnd94847jw/Nerv727363as/156193
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/WinSports%2B2022.png/revision/latest/scale-to-width-down/340?cb=20230109125452&path-prefix=es" group-title="TV | COLOMBIA", COL |  WIN SPORTS + 4K² 
 http://pltvsu.info:8080/tviritv/td6522SNAtHt/197668
