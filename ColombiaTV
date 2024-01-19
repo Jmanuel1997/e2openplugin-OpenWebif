@@ -117,6 +117,8 @@ http://api.best-dtv.com:8080/FMAe9MWVX8/sjduf7sks8fd7j/131843
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="TV | COLOMBIA", COL | TLN NOVELAS HD
 http://daleplay.club:8080/Lairnd94847jw/Nerv727363as/63200
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/TV_Agro_logo.svg/640px-TV_Agro_logo.svg.png" group-title="TV | COLOMBIA", COL | TV AGRO HD
+http://pltvsu.info:8080/tviritv/td6522SNAtHt/617
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/WinSports2022.png/revision/latest/scale-to-width-down/250?cb=20230109124705&path-prefix=es" group-title="TV | COLOMBIA", COL |  WIN SPORTS¹ FHD
 http://api.best-dtv.com:8080/FMAe9MWVX8/sjduf7sks8fd7j/84037
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/WinSports2022.png/revision/latest/scale-to-width-down/250?cb=20230109124705&path-prefix=es" group-title="TV | COLOMBIA", COL |  WIN SPORTS² FHD
