@@ -119,21 +119,15 @@ https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 http://daleplay.club:8080/Lairnd94847jw/Nerv727363as/63200
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/TV_Agro_logo.svg/640px-TV_Agro_logo.svg.png" group-title="TV | COLOMBIA", COL | TV AGRO HD
 http://pltvsu.info:8080/tviritv/td6522SNAtHt/617
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/WinSports2022.png/revision/latest/scale-to-width-down/250?cb=20230109124705&path-prefix=es" group-title="TV | COLOMBIA", COL |  WIN SPORTS¹ FHD
-http://api.best-dtv.com:8080/FMAe9MWVX8/sjduf7sks8fd7j/84037
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/WinSports2022.png/revision/latest/scale-to-width-down/250?cb=20230109124705&path-prefix=es" group-title="TV | COLOMBIA", COL |  WIN SPORTS² FHD
-http://th4.online:2095/WARNER56/PANAIPTV/133287
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/WinSports2022.png/revision/latest/scale-to-width-down/250?cb=20230109124705&path-prefix=es" group-title="TV | COLOMBIA", COL |  WIN SPORTS³ FHD
-http://daleplay.club:8080/Lairnd94847jw/Nerv727363as/130420
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/WinSports2022.png/revision/latest/scale-to-width-down/250?cb=20230109124705&path-prefix=es" group-title="TV | COLOMBIA", COL |  WIN SPORTS 4K¹
-http://daleplay.club:8080/Lairnd94847jw/Nerv727363as/156192
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/WinSports2022.png/revision/latest/scale-to-width-down/250?cb=20230109124705&path-prefix=es" group-title="TV | COLOMBIA", COL |  WIN SPORTS 4K²
-http://pltvsu.info:8080/tviritv/td6522SNAtHt/197665
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/WinSports%2B2022.png/revision/latest/scale-to-width-down/340?cb=20230109125452&path-prefix=es" group-title="TV | COLOMBIA", COL |  WIN SPORTS +¹ FHD 
-http://sdmx.vip:8080/belpley/sYqKZQrTZa/155248
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/WinSports%2B2022.png/revision/latest/scale-to-width-down/340?cb=20230109125452&path-prefix=es" group-title="TV | COLOMBIA", COL |  WIN SPORTS +² FHD
-http://pltvsu.info:8080/tviritv/td6522SNAtHt/197666
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/WinSports%2B2022.png/revision/latest/scale-to-width-down/340?cb=20230109125452&path-prefix=es" group-title="TV | COLOMBIA", COL |  WIN SPORTS +³ FHD
-http://live.stablechannels.tv:80/live/F4M8nQ9ff/v1AcKujaNB/9083.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/WinSports%2B2022.png/revision/latest/scale-to-width-down/340?cb=20230109125452&path-prefix=es" group-title="TV | COLOMBIA", COL |  WIN SPORTS + 4K
-http://pltvsu.info:8080/tviritv/td6522SNAtHt/197668
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" group-title="TV | COLOMBIA", COL | WIN SPORTS¹ FHD
+http://live.stablechannels.tv:80/live/fjkmyadv/wV4r14Rfl3/8287.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" group-title="TV | COLOMBIA", COL | WIN SPORTS² FHD
+http://magi-stv.net:8080/Megatvplus/pZNvewtBmjTfAe/176587
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" group-title="TV | COLOMBIA", COL | WIN SPORTS³ FHD
+http://pltvsu.info:8080/tviritv/td6522SNAtHt/197667
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/WinSportsM%C3%A1s2022.png" group-title="TV | COLOMBIA", COL | WIN SPORTS +¹ FHD
+http://live.stablechannels.tv:80/live/fjkmyadv/wV4r14Rfl3/9083.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/WinSportsM%C3%A1s2022.png" group-title="TV | COLOMBIA", COL | WIN SPORTS +² FHD
+http://magi-stv.net:8080/Megatvplus/pZNvewtBmjTfAe/12257
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/WinSportsM%C3%A1s2022.png" group-title="TV | COLOMBIA", COL | WIN SPORTS +³ FHD
+http://pltvsu.info:8080/tviritv/td6522SNAtHt/241344
