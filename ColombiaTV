@@ -12,7 +12,7 @@ https://cloudvideo.servers10.com:8081/8004/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Cali_TV.png/revision/latest?cb=20210422013022&path-prefix=es" group-title="TV | COLOMBIA", COL | CALI TV HD
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
 #EXTINF:-1 tvg-logo=" tvg-logo="https://www.canalccali.co/images/logo.png" group-title="TV | COLOMBIA", COL | CANAL C HD
-https://edge.teveo.com.co/live/AeAAAgAhAANnA1IAyADIUDAAAAGAAAAAAmWqV9i_XzXTAAAA/playlist.m3u8
+https://edge.teveo.com.co/live/AeAAAgAhAANnA1IAyADIUDAAAAGAAAAAAmW7czK-eYAjAAAA/chunklist_w807935957.m3u8
 #EXTINF:-1 tvg-logo="https://www.canalcapital.gov.co/themes/custom/bootstrap_capital/source/images/Logo_Capital.png" group-title="TV | COLOMBIA", COL | CANAL CAPITAL FHD
 https://live-edge-bhs-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/live-2500/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Se%C3%B1al_Institucional_logo.svg/800px-Se%C3%B1al_Institucional_logo.svg.png" group-title="TV | COLOMBIA", COL | CANAL INSTITUCIONAL HD
@@ -64,11 +64,11 @@ http://pltvsu.info:80/tviritv/td6522SNAtHt/218746
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/imagenes.conexioncapital.co/wp-content/uploads/2021/06/29232153/logo-eureka-new-1.png" group-title="TV | COLOMBIA", COL | EUREKA TV HD
 https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/022/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png" group-title="TV | COLOMBIA", COL | HTV FHD
-http://api.best-dtv.com:8080/FMAe9MWVX8/sjduf7sks8fd7j/2741
+http://magi-stv.net:8080/belpley/sYqKZQrTZa/2098837
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png" group-title="TV | COLOMBIA", COL | MC Musica Urbana
-http://api.best-dtv.com:8080/FMAe9MWVX8/sjduf7sks8fd7j/85192
+http://live.budtvlight.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/38923
 #EXTINF:-1 tvg-logo="https://memorias.tv/wp-content/uploads/2022/03/cropped-logo-MEMORIAS-TV-png-1.png" group-title="TV | COLOMBIA", COL | MEMORIAS TV HD
-https://mediacp.us:8081/8002/index.m3u8
+https://cloudvideo.servers10.com:8081/8240/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://90minutos.co/wp-content/themes/90min-theme/img/logo-90-minutos.png" group-title="TV | COLOMBIA", COL | NOTICIERO 90 MINUTOS HD
 https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/live-2500/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png" group-title="TV | COLOMBIA", COL | NTN 24 TV HD
@@ -78,7 +78,10 @@ https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/jS5ZpD_XyWo_7yKPkRYbJ9OvNE4P1KFuEfP93Nexj2-cIeTsI1mDFPnnONXrMIilfJc" group-title="TV | COLOMBIA", COL | OXIGENO NETWORK HD
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="TV | COLOMBIA", COL | PASIONES HD
-http://api.best-dtv.com:8080/FMAe9MWVX8/sjduf7sks8fd7j/202
+http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/291380
+#EXTINF:-1
+tvg-logo="https://psctelevision.com/wp-content/uploads/2020/08/logo-200.png" group-title="TV | COLOMBIA", COL | PSC TELEVISIÓN HD
+https://stmv6.voxtvhd.com.br/psctv/psctv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://canalvisiondorada.com.co/wp-content/uploads/2023/07/ranchenato.png" group-title="TV | COLOMBIA", COL | RANCHENATO HD
 http://181.78.1.158:8000/play/a05o/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/CanalRCN2023a.png/revision/latest/scale-to-width-down/200?cb=20230620180649&path-prefix=es" group-title="TV | COLOMBIA", COL | RCN FHD
@@ -102,17 +105,17 @@ https://hvtraficonew.ddns.net/pastocnc7/cnc7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://suram.com.co/wp-content/uploads/2020/02/LOGO-SURAM.png" group-title="TV | COLOMBIA", COL | SURAM TV HD
 https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Teleantioquia_logo.svg/2560px-Teleantioquia_logo.svg.png" group-title="TV | COLOMBIA", COL | TELEANTIOQUIA HD
-http://api.best-dtv.com:8080/FMAe9MWVX8/sjduf7sks8fd7j/36341
+http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/69276
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Telecaf%C3%A9_logo.svg/1200px-Telecaf%C3%A9_logo.svg.png" group-title="TV | COLOMBIA", COL | TELECAFE HD
-http://api.best-dtv.com:8080/FMAe9MWVX8/sjduf7sks8fd7j/63697
+http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/69278
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/61a456_4286e3d98179404e9484ca04027d0c59~mv2.png/v1/crop/x_0,y_24,w_1751,h_1607/fill/w_144,h_132,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TELECARIBE-LOGO-2023.png" group-title="TV | COLOMBIA", COL | TELECARIBE HD
-http://api.best-dtv.com:8080/FMAe9MWVX8/sjduf7sks8fd7j/31163
+http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/69280
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Telehit_M%C3%BAsica_logo.png" group-title="TV | COLOMBIA", COL | TELEHIT MUSICA HD
 http://daleplay.club:8080/Lairnd94847jw/Nerv727363as/312831
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Telehit_M%C3%BAsica_Plus_logo.png" group-title="TV | COLOMBIA", COL | TELEHIT MUSICA PLUS FHD
-http://api.best-dtv.com:8080/FMAe9MWVX8/sjduf7sks8fd7j/9615
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13856.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Logotipo_de_Telemedell%C3%ADn.png/300px-Logotipo_de_Telemedell%C3%ADn.png" group-title="TV | COLOMBIA", COL |  TELEMEDELLIN HD
-http://api.best-dtv.com:8080/FMAe9MWVX8/sjduf7sks8fd7j/131843
+http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/69284
 #EXTINF:-1 tvg-logo="https://telepacifico.com/dev/wp-content/uploads/2022/11/TELEPACIFICO-35-ANOS-LOGO.png" group-title="TV | COLOMBIA", COL | TELEPACIFICO
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="TV | COLOMBIA", COL | TLN NOVELAS HD
@@ -120,14 +123,22 @@ http://daleplay.club:8080/Lairnd94847jw/Nerv727363as/63200
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/TV_Agro_logo.svg/640px-TV_Agro_logo.svg.png" group-title="TV | COLOMBIA", COL | TV AGRO HD
 http://pltvsu.info:8080/tviritv/td6522SNAtHt/617
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" group-title="TV | COLOMBIA", COL | WIN SPORTS¹ FHD
-http://live.stablechannels.tv:80/live/fjkmyadv/wV4r14Rfl3/8287.ts
+http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/130420
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" group-title="TV | COLOMBIA", COL | WIN SPORTS² FHD
-http://magi-stv.net:8080/Megatvplus/pZNvewtBmjTfAe/176587
+http://magi-stv.net:8080/belpley/sYqKZQrTZa/176587
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" group-title="TV | COLOMBIA", COL | WIN SPORTS³ FHD
-http://pltvsu.info:8080/tviritv/td6522SNAtHt/197667
+http://pltvsu.info:8080/tviritv/td6522SNAtHt/197665
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" group-title="TV | COLOMBIA", COL | WIN SPORTS⁴ FHD
+http://deluxeplay.live:80/live/pldavrtr/tKHmyf5009/8287.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/WinSportsM%C3%A1s2022.png" group-title="TV | COLOMBIA", COL | WIN SPORTS +¹ FHD
-http://live.stablechannels.tv:80/live/fjkmyadv/wV4r14Rfl3/9083.ts
+http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/1383
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/WinSportsM%C3%A1s2022.png" group-title="TV | COLOMBIA", COL | WIN SPORTS +² FHD
-http://magi-stv.net:8080/Megatvplus/pZNvewtBmjTfAe/12257
+http://magi-stv.net:8080/belpley/sYqKZQrTZa/155248
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/WinSportsM%C3%A1s2022.png" group-title="TV | COLOMBIA", COL | WIN SPORTS +³ FHD
 http://pltvsu.info:8080/tviritv/td6522SNAtHt/241344
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/WinSportsM%C3%A1s2022.png" group-title="TV | COLOMBIA", COL | WIN SPORTS +⁴ FHD
+http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/9083.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/WinSportsM%C3%A1s2022.png" group-title="TV | COLOMBIA", COL | WIN SPORTS + 4K¹
+http://pltvsu.info:8080/tviritv/td6522SNAtHt/197668
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/WinSportsM%C3%A1s2022.png" group-title="TV | COLOMBIA", COL | WIN SPORTS + 4K²
+http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/156193
