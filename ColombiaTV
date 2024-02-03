@@ -38,16 +38,20 @@ http://pltvsu.info:80/tviritv/td6522SNAtHt/221
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/CanalCaracolInternacional2023.png/revision/latest/scale-to-width-down/200?cb=20230210190133&path-prefix=es" group-title="TV | COLOMBIA", COL | CARACOL INTERNACIONAL HD
 http://pltvsu.info:80/tviritv/td6522SNAtHt/456
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest/scale-to-width-down/250?cb=20210820025220&path-prefix=es" group-title="TV | COLOMBIA", COL | CARTOON NETWORK HD
-https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-720p.m3u8
+http://pltvsu.info:8080/tviritv/td6522SNAtHt/169
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/2560px-Cartoonito_-_Logo_2021.svg.png" group-title="TV | COLOMBIA", COL | CARTOONITO HD
 https://kingtvplus.online:443/Julio/Julio/214666.ts
 #EXTINF:-1 tvg-logo="http://www.cncpasto.com/wp-content/uploads/2018/04/Untitled-1.png" group-title="TV | COLOMBIA", COL | CNC PASTO HD
 http://pastocnc1.ddns.net/pastocnc9/cnc9/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DSports.png/350px-DSports.png" group-title="TV | COLOMBIA", COL | DIRECTV SPORTS FHD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Disney_Channel_2019.svg/revision/latest?cb=20240112234530&path-prefix=es" group-title="TV | COLOMBIA", COL | DISNEY CHANNEL FHD
+http://pltvsu.info:8080/tviritv/td6522SNAtHt/171
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="TV | COLOMBIA", COL | DISNEY JR FHD
+http://magi-stv.net:8080/belpley/sYqKZQrTZa/154083
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DSports.png/350px-DSports.png" group-title="TV | COLOMBIA", COL | D SPORTS FHD
 http://magi-stv.net:8080/belpley/sYqKZQrTZa/2190642
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/DSports2.png/350px-DSports2.png" group-title="TV | COLOMBIA", COL | DIRECTV SPORTS 2 FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/DSports2.png/350px-DSports2.png" group-title="TV | COLOMBIA", COL | D SPORTS 2 FHD
 http://pltvsu.info:8080/tviritv/td6522SNAtHt/146504
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/DSportsM%C3%A1s.png/300px-DSportsM%C3%A1s.png" group-title="TV | COLOMBIA", COL | DIRECTV SPORTS + FHD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/DSports_%2B_2022.png/revision/latest?cb=20221115002318&path-prefix=es" group-title="TV | COLOMBIA", COL | D SPORTS + FHD
 http://magi-stv.net:8080/belpley/sYqKZQrTZa/2190644
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest/scale-to-width-down/250?cb=20210102195101&path-prefix=es" group-title="TV | COLOMBIA", COL | ESPN FHD
 http://pltvsu.info:8080/tviritv/td6522SNAtHt/218705
@@ -57,7 +61,7 @@ http://pltvsu.info:80/tviritv/td6522SNAtHt/215002
 http://pltvsu.info:8080/tviritv/td6522SNAtHt/218712
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1024px-ESPN_4_logo.svg.png" group-title="TV | COLOMBIA", COL | ESPN 4 FHD
 http://pltvsu.info:80/tviritv/td6522SNAtHt/218708
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/360px-Espn_deportes.svg.png" group-title="TV | COLOMBIA", COL | ESPN DEPORTES
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/ESPN_Deportes.svg/revision/latest?cb=20100620210138" group-title="TV | COLOMBIA", COL | ESPN DEPORTES FHD
 http://pltvsu.info:8080/tviritv/td6522SNAtHt/218745
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png" group-title="TV | COLOMBIA", COL | ESPN EXTRA
 http://pltvsu.info:80/tviritv/td6522SNAtHt/218702
@@ -65,12 +69,24 @@ http://pltvsu.info:80/tviritv/td6522SNAtHt/218702
 http://pltvsu.info:80/tviritv/td6522SNAtHt/218746
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/imagenes.conexioncapital.co/wp-content/uploads/2021/06/29232153/logo-eureka-new-1.png" group-title="TV | COLOMBIA", COL | EUREKA TV HD
 https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/022/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Fs1.png/revision/latest?cb=20210417005625&path-prefix=es" group-title="TV | COLOMBIA", COL | FOX SPORTS 1 FHD
+http://pltvsu.info:8080/tviritv/td6522SNAtHt/374
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Fox_Sports_2_Logo.svg/revision/latest?cb=20230305144028&path-prefix=es" group-title="TV | COLOMBIA", COL | FOX SPORTS 2 FHD
+http://live.budtvlight.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/56070
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/FOXSports3LA.png/revision/latest?cb=20230305145044&path-prefix=es" group-title="TV | COLOMBIA", COL | FOX SPORTS 3 FHD
+http://pltvsu.info:8080/tviritv/td6522SNAtHt/378
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/FOXSportsPremium2019.png/revision/latest?cb=20190602030108&path-prefix=es" group-title="TV | COLOMBIA", COL | FOX SPORTS PREMIUM FHD
+http://magi-stv.net:8080/belpley/sYqKZQrTZa/195840
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png" group-title="TV | COLOMBIA", COL | HTV FHD
 http://magi-stv.net:8080/belpley/sYqKZQrTZa/2098837
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png" group-title="TV | COLOMBIA", COL | MC Musica Urbana
 http://live.budtvlight.com:25461/JW2WBsjv3sgQaDTHs/sjqvgRauPbjj/38923
 #EXTINF:-1 tvg-logo="https://memorias.tv/wp-content/uploads/2022/03/cropped-logo-MEMORIAS-TV-png-1.png" group-title="TV | COLOMBIA", COL | MEMORIAS TV HD
 https://cloudvideo.servers10.com:8081/8240/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Nickelodeon_2023_logo.svg/2560px-Nickelodeon_2023_logo.svg.png" group-title="TV | COLOMBIA", COL | NICKELODEON FHD
+http://pltvsu.info:8080/tviritv/td6522SNAtHt/175
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nick_Jr._logo_2023_%28outline%29.svg" group-title="TV | COLOMBIA", COL | NICK JR FHD
+http://pltvsu.info:8080/tviritv/td6522SNAtHt/177
 #EXTINF:-1 tvg-logo="https://90minutos.co/wp-content/themes/90min-theme/img/logo-90-minutos.png" group-title="TV | COLOMBIA", COL | NOTICIERO 90 MINUTOS HD
 https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/live-2500/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png" group-title="TV | COLOMBIA", COL | NTN 24 TV HD
@@ -81,8 +97,7 @@ https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="TV | COLOMBIA", COL | PASIONES HD
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/291380
-#EXTINF:-1
-tvg-logo="https://psctelevision.com/wp-content/uploads/2020/08/logo-200.png" group-title="TV | COLOMBIA", COL | PSC TELEVISIÓN HD
+#EXTINF:-1 tvg-logo="https://psctelevision.com/wp-content/uploads/2020/08/logo-200.png" group-title="TV | COLOMBIA", COL | PSC TV HD
 https://stmv6.voxtvhd.com.br/psctv/psctv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://canalvisiondorada.com.co/wp-content/uploads/2023/07/ranchenato.png" group-title="TV | COLOMBIA", COL | RANCHENATO HD
 http://181.78.1.158:8000/play/a05o/index.m3u8
