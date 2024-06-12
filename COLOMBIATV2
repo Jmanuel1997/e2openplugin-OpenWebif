@@ -1,0 +1,21 @@
+EXTM3U
+#EXTINF:-1 tvg-logo="https://amordiscosretro.com/wp-content/uploads/2024/05/Logo-Amordiscos-600x600-alpha.png" group-title="COL |",AMORDISCOS HD
+https://imagon.ddns.net/amordiscos/amordiscos/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Caracol_2019.png/revision/latest?cb=20200209131121&path-prefix=es" group-title="COL |",CARACOL FHD
+http://pltvsu.info:8080/cambio2021/3eehYbF8qZ9N/221
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/CaracolAhora2022.png/revision/latest?cb=20221215182718&path-prefix=es" group-title="COL |",CARACOL AHORA HD
+http://pltvsu.info:8080/cambio2021/3eehYbF8qZ9N/222
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/CanalCaracolInternacional2023.png/revision/latest?cb=20240410002459&path-prefix=es" group-title="COL |",CARACOL INTERNACIONAL  FHD
+http://1play.cool:25461/HugoWHvM4y3WTA/6b4k3Fjh538x/30317
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/LaKallecol2018.png/revision/latest?cb=20240318212441&path-prefix=es" group-title="COL |",LA KALLE HD
+https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Canal_RCN_2023-present.svg/revision/latest?cb=20230702001117" group-title="COL |",RCN FHD
+http://pltvsu.info:80/cambio2021/3eehYbF8qZ9N/241
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/bf588c9f766d30b3d6d4cdeb12cb5649.png" group-title="COL |",RCN MÁS
+https://rcntv-rcnmas-1-us.plex.wurl.tv/4300.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/CanalRCNNovelas2019.png/revision/latest?cb=20210307131301&path-prefix=es" group-title="COL |",RCN NOVELAS HD
+http://home-playtv.com:8080/BTKYW/SRfnuxM2k7WS/9907
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/RCNNuestraTeleInternacional_2023.png/revision/latest?cb=20240424223607" group-title="COL |",RCN NUESTRA TELE INTERNACIONAL FHD
+http://1play.cool:25461/HugoWHvM4y3WTA/6b4k3Fjh538x/30316
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/RCNNuestraTeleInternacional_2023.png/revision/latest?cb=20240424223607" group-title="COL |",RCN XTRA FHD
+https://latv-rcn-xtra-1-mx.tcl.wurl.tv/4300.m3u8
