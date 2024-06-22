@@ -3,6 +3,12 @@ EXTM3U
 https://imagon.ddns.net/amordiscos/amordiscos/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Caracol_2019.png/revision/latest?cb=20200209131121&path-prefix=es" group-title="COL |",CARACOL FHD
 http://arboltv.xyz:8080/Altoquetv83/ALt3Qu592S8S/273404
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DSports_2022.png/revision/latest?cb=20221114235431&path-prefix=es" group-title="COL |",DIRECTV SPORTS
+http://zeuspro.xyz:8080/Hidr13odemsww/nTAuRWcTmD/154284
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DSports_2022.png/revision/latest?cb=20221114235431&path-prefix=es" group-title="COL |",DIRECTV SPORTS OPC²
+http://1play.cool:25461/YVGYIgygyuvFYGyvvRC65c788c57d76CTc57d5C5V7dtCTC5Dtcg/ygfyv68V978v7gHYU9GgyYVGF78g8gb98G87GF7fv7g574dtF57TF/75569
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DSports_2022.png/revision/latest?cb=20221114235431&path-prefix=es" group-title="COL |",DIRECTV SPORTS OPC³
+http://ultrapremium.cloud:8080/ULTRATOMAS3521/qMaceyZAAf63/482
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/CanalCaracolInternacional2023.png/revision/latest?cb=20240410002459&path-prefix=es" group-title="COL |",CARACOL INTERNACIONAL
 http://1play.cool:25461/HugoWHvM4y3WTA/6b4k3Fjh538x/30317
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/LaKallecol2018.png/revision/latest?cb=20240318212441&path-prefix=es" group-title="COL |",LA KALLE
