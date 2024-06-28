@@ -12,6 +12,7 @@ http://nandesp.com:8080/cambio2021/3eehYbF8qZ9N/220
 #EXTINF:-1 tvg-logo="https://www.cantinatv.com/cantina%20tv.png" group-title="COL |",CANTINA TV HD
 https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Caracol_2019.png/revision/latest?cb=20200209131121&path-prefix=es" group-title="COL |",CARACOL FHD
+http://home-playtv.com:8080/BTKYW/SRfnuxM2k7WS/46257
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Caracol_2019.png/revision/latest?cb=20200209131121&path-prefix=es" group-title="COL |",CARACOL INTERNACIONAL FHD
 http://home-playtv.com:8080/BTKYW/SRfnuxM2k7WS/211350
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Citytv2024posiblelogo.svg/revision/latest?cb=20240319231356&path-prefix=es" group-title="COL |",CITY TV FHD
@@ -21,7 +22,7 @@ https://59a564764e2b6.streamlock.net/ctvbarranquilla/_definst_/ctv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.huilatv.com/wp-content/uploads/2020/01/LOGO-HUILA-TV-ICONO.png" group-title="COL |",HUILA TV HD
 https://server.asilivehd.com:3333/live/huilatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/LaKallecol2018.png/revision/latest?cb=20240318212441&path-prefix=es" group-title= "COL |",LA KALLE
-https://mdstrm.com/lista-de-reproduccion-de-transmision-en-vivo/58d191f07290fbb058025843.m3u8
+https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
 #EXTINF:-1 tvg-logo="https://memorias.tv/wp-content/uploads/2023/04/cropped-logo-MEMORIAS-TV-png-1.png" group-title="COL |",MEMORIAS TV HD
 https://stmv6.voxtvhd.com.br/memoriastv/memoriastv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://90minutos.co/wp-content/themes/90min-theme/img/logo-90-minutos.png" group-title="COL |",NOTICIERO 90 MINUTOS HD
