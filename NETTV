@@ -12,7 +12,9 @@ http://nandesp.com:8080/cambio2021/3eehYbF8qZ9N/220
 #EXTINF:-1 tvg-logo="https://www.cantinatv.com/cantina%20tv.png" group-title="COL |",CANTINA TV HD
 https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Caracol_2019.png/revision/latest?cb=20200209131121&path-prefix=es" group-title="COL |",CARACOL FHD
-http://home-playtv.com:8080/BTKYW/SRfnuxM2k7WS/46257
+http://nandesp.com:8080/cambio2021/3eehYbF8qZ9N/221
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/CaracolAhora2022.png/revision/latest?cb=20221215182718&path-prefix=es" group-title="COL |",CARACOL AHORA FHD
+http://nandesp.com:8080/cambio2021/3eehYbF8qZ9N/222
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Caracol_2019.png/revision/latest?cb=20200209131121&path-prefix=es" group-title="COL |",CARACOL INTERNACIONAL FHD
 http://home-playtv.com:8080/BTKYW/SRfnuxM2k7WS/211350
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Citytv2024posiblelogo.svg/revision/latest?cb=20240319231356&path-prefix=es" group-title="COL |",CITY TV FHD
