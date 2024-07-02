@@ -1,5 +1,5 @@
 EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Caracol_Internacional_2023.png" group-title="COL |",ALPASURFNET HD
+#EXTINF:-1 tvg-logo="https://alpavision.com.co/wp-content/uploads/2022/07/logo-alpa_Mesa-de-trabajo-1.png" group-title="COL |",ALPASURFNET HD
 https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://amordiscosretro.com/wp-content/uploads/2024/05/Logo-Amordiscos-600x600-alpha.png" group-title="COL |",AMORDISCOS HD
 https://imagon.ddns.net/amordiscos/amordiscos/index.fmp4.m3u8
@@ -30,7 +30,7 @@ https://59a564764e2b6.streamlock.net/ctvbarranquilla/_definst_/ctv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DSports_2022.png/revision/latest?cb=20221114235431&path-prefix=es" group-title="COL |",DSPORTS FHD
 http://pro.boxdigital.org:8080/cambio65tbentertaimentG/65agqb2cw2225axXNMa/181836
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/DSports_2_2022.png/revision/latest?cb=20221115002249&path-prefix=es" group-title="COL |",DSPORTS 2 FHD
-http://1play.cool:25461/YVGYIgygyuvFYGyvvRC65c788c57d76CTc57d5C5V7dtCTC5Dtcg/ygfyv68V978v7gHYU9GgyYVGF78g8gb98G87GF7fv7g574dtF57TF/151374
+http://ultrapremium.cloud:8080/ULTRATOMAS3521/qMaceyZAAf63/476
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/DSports_2_2022.png/revision/latest?cb=20221115002249&path-prefix=es" group-title="COL |",DSPORTS + HD
 http://pro.boxdigital.org:8080/cambio65tbentertaimentG/65agqb2cw2225axXNMa/181834
 #EXTINF:-1 tvg-logo="https://www.huilatv.com/wp-content/uploads/2020/01/LOGO-HUILA-TV-ICONO.png" group-title="COL |",HUILA TV HD
@@ -65,9 +65,13 @@ https://hvtraficonew.ddns.net/pastocnc7/cnc7/playlist.m3u8
 https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8
 #EXTINF:-1 tvg-logo="https://telemedellin.tv/wp-content/themes/telemedellin/img/2024/logo-tm-naranja.png" group-title="COL |",TELEMEDELLIN HD
 http://nandesp.com:8080/cambio2021/3eehYbF8qZ9N/415
-#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/rcn-xtra_2.jpg" group-title="COL |",TELEPACIFICO HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/LOGO-TELEPACIFICO.png" group-title="COL |",TELEPACIFICO HD
 https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/WinSports2022.png/revision/latest?cb=20230109124705&path-prefix=es" group-title="COL |",WIN SPORTS FHD
 http://latintvplus.com:8000/live/gooodseerveriptv/X7MY8691HH/160066.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/WinSportsM%C3%A1s2022.png" group-title="COL |",WIN SPORTS + FHD
 http://latintvplus.com:8000/live/gooodseerveriptv/X7MY8691HH/160067.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/WinSportsM%C3%A1s2022.png" group-title="COL |",WIN SPORTS +² FHD
+http://pro.boxdigital.org:8080/cambio65tbentertaimentG/65agqb2cw2225axXNMa/181739
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/WinSportsM%C3%A1s2022.png" group-title="COL |",WIN SPORTS +³ FHD
+http://offshore.lat:8080/Cr2023/dNRrHtpRfb/252516.ts
