@@ -18,7 +18,7 @@ http://streamsy.online:2999/juanv/04bodwaga0/1716
 #EXTINF:-1 tvg-logo="https://www.cantinatv.com/cantina%20tv.png" group-title="COL |",CANTINA TV HD
 https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Caracol_2019.png/revision/latest?cb=20200209131121&path-prefix=es" group-title="COL |",CARACOL FHD
-http://nandesp.com:8080/cambio2021/3eehYbF8qZ9N/221
+http://nandesp.com:8080/cambio2021/3eehYbF8qZ9N/40875
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/CaracolAhora2022.png/revision/latest?cb=20221215182718&path-prefix=es" group-title="COL |",CARACOL AHORA FHD
 http://nandesp.com:8080/cambio2021/3eehYbF8qZ9N/222
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Caracol_Internacional_2023.png" group-title="COL |",CARACOL INTERNACIONAL FHD
@@ -46,9 +46,13 @@ http://home-playtv.com:8080/BTKYW/SRfnuxM2k7WS/9483
 #EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/p/AF1QipP8a5c8sh4DGiutt5Dx1hspD3vEeYJCILU0bbNs=w189-h189-n-k-no?h=72&w=72&scale=2" group-title="COL |",ONDAMBIENTAL SD
 https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Canal_RCN_2023-present.svg/revision/latest?cb=20230702001117" group-title="COL |",RCN FHD
-http://offshore.lat:8080/Cr2023/dNRrHtpRfb/417.ts
+http://nandesp.com:8080/cambio2021/3eehYbF8qZ9N/241
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="COL |",RCN MÁS FHD
 https://rcntv-rcnmas-1-us.plex.wurl.tv/4300.m3u8
+#EXTINF:-1 tvg-logo="https://es.m.wikipedia.org/wiki/RCN_Novelas#/media/Archivo%3ARCN_Novelas_logo_2019.png" group-title="COL |",RCN NOVELAS HD
+http://nobloque.online:2082/alemer1804old2/3TcEYMRPUSkZ123/226246
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Nuestra_Tele_Internacional?file=RCNNuestraTeleInternacional_2023.png" group-title="COL |",RCN NUESTRA TELE INT FHD
+http://nobloque.online:2082/alemer1804old2/3TcEYMRPUSkZ123/226248
 #EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/rcn-xtra_2.jpg" group-title="COL |",RCN XTRA FHD
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/4300.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/V2yc9L2/Canal-CNC-Sentimiento-Vallenato-tvtolive-com.jpg" group-title="COL |",SENTIMIENTO VALLENATO HD
@@ -63,10 +67,19 @@ https://hvtraficonew.ddns.net/pastocnc2/cnc2/playlist.m3u8
 https://hvtraficonew.ddns.net/pastocnc7/cnc7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://suram.com.co/wp-content/uploads/2020/02/LOGO-SURAM.png" group-title="COL |",SURAM TV HD
 https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8
+EXTM3U
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Teleantioquia?file=Teleantioquia2024withmap.png" group-title="COL |",TELEANTIOQUIA HD
+http://nandesp.com:8080/cambio2021/3eehYbF8qZ9N/413
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Telecaf%C3%A9?file=Telecaf%C3%A9_2020.png" group-title="COL |",TELECAFE HD
+http://home-playtv.com:8080/BTKYW/SRfnuxM2k7WS/12843
+#EXTINF:-1 tvg-logo="https://telecaribe.co/wp-content/uploads/2024/04/Recurso-1.png" group-title="COL |",TELECARIBE HD
+http://nobloque.online:2082/alemer1804old2/3TcEYMRPUSkZ123/226265
+#EXTINF:-1 tvg-logo="https://teleislas.gov.co/wp-content/uploads/2019/07/cropped-Teleislas_Logo-768x219.png" group-title="COL |",TELEISLAS HD
+http://latintvplus.com:8000/live/gooodseerveriptv/X7MY8691HH/141622.ts
 #EXTINF:-1 tvg-logo="https://telemedellin.tv/wp-content/themes/telemedellin/img/2024/logo-tm-naranja.png" group-title="COL |",TELEMEDELLIN HD
 http://nandesp.com:8080/cambio2021/3eehYbF8qZ9N/415
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/LOGO-TELEPACIFICO.png" group-title="COL |",TELEPACIFICO HD
-https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://telepacifico.com/dev/wp-content/uploads/2022/11/TELEPACIFICO-35-ANOS-LOGO.png" group-title="COL |",TELEPACIFICO HD
+https://live-edge-bhs-1.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/live-1080/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/WinSports2022.png/revision/latest?cb=20230109124705&path-prefix=es" group-title="COL |",WIN SPORTS FHD
 http://latintvplus.com:8000/live/gooodseerveriptv/X7MY8691HH/160066.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/WinSportsM%C3%A1s2022.png" group-title="COL |",WIN SPORTS + FHD
