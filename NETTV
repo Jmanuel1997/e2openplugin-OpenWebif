@@ -19,6 +19,8 @@ http://streamsy.online:2999/juanv/04bodwaga0/1716
 https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Caracol_2019.png/revision/latest?cb=20200209131121&path-prefix=es" group-title="COL |",CARACOL FHD
 http://nandesp.com:8080/cambio2021/3eehYbF8qZ9N/40875
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/CaracolHD2-2023.png" group-title="COL |",CARACOL HD2
+http://5tgvb.art:2052/CineViP/3Gf4n7D/226328
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/CaracolAhora2022.png/revision/latest?cb=20221215182718&path-prefix=es" group-title="COL |",CARACOL AHORA FHD
 http://nandesp.com:8080/cambio2021/3eehYbF8qZ9N/222
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Caracol_Internacional_2023.png" group-title="COL |",CARACOL INTERNACIONAL FHD
@@ -49,6 +51,8 @@ http://home-playtv.com:8080/BTKYW/SRfnuxM2k7WS/9483
 https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Canal_RCN_2023-present.svg/revision/latest?cb=20230702001117" group-title="COL |",RCN FHD
 http://nandesp.com:8080/cambio2021/3eehYbF8qZ9N/241
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/RCN_HD2_2023.png" group-title="COL |",RCN HD2
+http://5tgvb.art:2052/CineViP/3Gf4n7D/87113
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="COL |",RCN MÁS FHD
 https://rcntv-rcnmas-1-us.plex.wurl.tv/4300.m3u8
 #EXTINF:-1 tvg-logo="https://es.m.wikipedia.org/wiki/RCN_Novelas#/media/Archivo%3ARCN_Novelas_logo_2019.png" group-title="COL |",RCN NOVELAS HD
