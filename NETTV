@@ -114,23 +114,19 @@ http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/164533
 http://5tgvb.art:2052/CineViP/3Gf4n7D/94205
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Vivetv.png/320px-Vivetv.png" group-title="COL |",VIVE TV COLOMBIA HD
 http://192.144.113.132:1935/live/ViveTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://files.winsports.co/assets/public/Win_Nuevo_WEB_02.png" group-title="COL |",WIN SPORTS 4K
+http://nandesp.com:8080/cambio2021/3eehYbF8qZ9N/197665
 #EXTINF:-1 tvg-logo="https://files.winsports.co/assets/public/Win_Nuevo_WEB_02.png" group-title="COL |",WIN SPORTS FHD
 http://latintvplus.com:8000/live/gooodseerveriptv/X7MY8691HH/160066.ts
 #EXTINF:-1 tvg-logo="https://files.winsports.co/assets/public/Win_Nuevo_WEB_02.png" group-title="COL |",WIN SPORTS² FHD
 http://nobloque.online:2082/alemer1804old2/3TcEYMRPUSkZ123/392364
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/1200px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="COL |",WIN + FUTBOL¹ FHD
-https://nxt.plus:8443/cablestream/uSgBFYRL78sA/1164
+http://nandesp.com:8080/cambio2021/3eehYbF8qZ9N/197666
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/1200px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="COL |",WIN + FUTBOL² FHD
-http://1play.cool:25461/YVGYIgygyuvFYGyvvRC65c788c57d76CTc57d5C5V7dtCTC5Dtcg/ygfyv68V978v7gHYU9GgyYVGF78g8gb98G87GF7fv7g574dtF57TF/39957
+http://5tgvb.art:2052/CineViP/3Gf4n7D/128669
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/1200px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="COL |",WIN + FUTBOL³ FHD
-http://latintvplus.com:8000/live/gooodseerveriptv/X7MY8691HH/160067.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/1200px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="COL |",WIN + FUTBOL⁴ FHD
-http://777back.xyz:8080/Svtv638Gaa/KjkcAphtG7Kh/307026
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/1200px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="COL |",WIN + FUTBOL⁵ FHD
 http://offshore.lat:8080/Cr2023/dNRrHtpRfb/252516.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/1200px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="COL |",WIN + FUTBOL⁶ FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/1200px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="COL |",WIN + FUTBOL⁴ FHD
 http://galaxypro.online:8080/gatqJsMRmteq/WDgJLrNJHJSX/93494
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/1200px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="COL |",WIN + FUTBOL⁷ FHD
-http://hidra.live:80/aewdmxqs/i6n7tlL86X/34691
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/1200px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="COL |",WIN + FUTBOL⁸ FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/1200px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="COL |",WIN + FUTBOL⁵ FHD
 http://tpi.lat:8080/TVRESTREAM/7463645TV/281393.ts
