@@ -1,6 +1,4 @@
 EXTM3U
-#EXTINF:-1 tvg-logo="https://alpavision.com.co/wp-content/uploads/2022/07/logo-alpa_Mesa-de-trabajo-1.png" group-title="COL |",ALPASURFNET HD
-https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://amordiscosretro.com/wp-content/uploads/2024/05/Logo-Amordiscos-600x600-alpha.png" group-title="COL |",AMORDISCOS HD
 https://imagon.ddns.net/amordiscos/amordiscos/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://atntelevision.co/wp-content/uploads/2020/07/logo-2.png" group-title="COL |",ATN TV HD
@@ -30,9 +28,9 @@ http://nandesp.com:8080/cambio2021/3eehYbF8qZ9N/221
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/CaracolHD2-2023.png" group-title="COL |",CARACOL HD2
 http://5tgvb.art:2052/CineViP/3Gf4n7D/226328
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/CaracolAhora2022.png/revision/latest?cb=20221215182718&path-prefix=es" group-title="COL |",CARACOL AHORA FHD
-http://nandesp.com:8080/cambio2021/3eehYbF8qZ9N/222
+https://mdstrm.com/live-stream-gdai/632391734be92a791e2750e6/linear/hls/pa/event/AImtl9u6QA2hQXyM7DGbwg/stream/fba27a2b-0312-45b9-b74a-71c9ae7a65e3:MRN2/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Caracol_Internacional_2023.png" group-title="COL |",CARACOL INTERNACIONAL FHD
-http://mymoontools.xyz:8080/TeptCZqGxW4JT/eya3Bd8Kv9qeYKantiFucGJSw/1133409
+http://nandesp.com:8080/cambio2021/3eehYbF8qZ9N/222
 #EXTINF:-1 tvg-logo="https://www.coosmovision.com/wp-content/uploads/2024/02/logo-cosmovision-blanco-sin-bordes-1024x113.png" group-title="COL |",COSMOVISIÓN HD
 https://videohls2.cosmovision.tv/hls/sd.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Citytv2024posiblelogo.svg/revision/latest?cb=20240319231356&path-prefix=es" group-title="COL |",CITY TV FHD
@@ -41,9 +39,7 @@ http://mymoontools.xyz:8080/TeptCZqGxW4JT/eya3Bd8Kv9qeYKantiFucGJSw/19497
 https://59a564764e2b6.streamlock.net/ctvbarranquilla/_definst_/ctv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DSports_2022.png/revision/latest?cb=20221114235431&path-prefix=es" group-title="COL |",DSPORTS FHD
 http://nandesp.com:8080/cambio2021/3eehYbF8qZ9N/146518
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DSports_2022.png/revision/latest?cb=20221114235431&path-prefix=es" group-title="COL |",DSPORTS² FHD
-http://nobloque.online:2082/alemer1804old2/3TcEYMRPUSkZ123/226282
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/DSports_2_2022.png/revision/latest?cb=20221115002249&path-prefix=es" group-title="COL |",DSPORTS 2 FHD
+  #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/DSports_2_2022.png/revision/latest?cb=20221115002249&path-prefix=es" group-title="COL |",DSPORTS 2 FHD
 http://ultrapremium.cloud:8080/ULTRATOMAS3521/qMaceyZAAf63/476
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/DSports_2_2022.png/revision/latest?cb=20221115002249&path-prefix=es" group-title="COL |",DSPORTS + HD
 http://pro.boxdigital.org:8080/cambio65tbentertaimentG/65agqb2cw2225axXNMa/181834
@@ -56,11 +52,11 @@ https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
 #EXTINF:-1 tvg-logo="https://alpavision.com.co/wp-content/uploads/2022/07/logo-alpa_Mesa-de-trabajo-1.png" group-title="COL |",MULTICANAL HD
 https://ssh101-fl.bozztv.com/ssh101/KIOCApP/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png" group-title="COL |",MUSIC CHOICE URBANO HD
-http://planetaiks.info:8000/live/demoalvaro/UtBQYc4Zv3Pt/72575.ts
+http://gazytv.com:8880/43bwCE8ZXz/s8dMgq7bcV/1575.ts
 #EXTINF:-1 tvg-logo="https://90minutos.co/wp-content/themes/90min-theme/img/logo-90-minutos.png" group-title="COL |",NOTICIERO 90 MINUTOS HD
 https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/live-2500/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/NTN_24_%282014-%29.png/revision/latest?cb=20210307130316&path-prefix=es" group-title="COL |",NTN 24 FHD
-http://home-playtv.com:8080/BTKYW/SRfnuxM2k7WS/9483
+http://nandesp.com:8080/cambio2021/3eehYbF8qZ9N/532
 #EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/p/AF1QipP8a5c8sh4DGiutt5Dx1hspD3vEeYJCILU0bbNs=w189-h189-n-k-no?h=72&w=72&scale=2" group-title="COL |",ONDAMBIENTAL SD
 https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Canal_RCN_2023-present.svg/revision/latest?cb=20230702001117" group-title="COL |",RCN FHD
@@ -70,15 +66,15 @@ http://5tgvb.art:2052/CineViP/3Gf4n7D/87113
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="COL |",RCN MÁS FHD
 https://rcntv-rcnmas-1-us.plex.wurl.tv/4300.m3u8
 #EXTINF:-1 tvg-logo="https://es.m.wikipedia.org/wiki/RCN_Novelas#/media/Archivo%3ARCN_Novelas_logo_2019.png" group-title="COL |",RCN NOVELAS HD
-http://nobloque.online:2082/alemer1804old2/3TcEYMRPUSkZ123/226246
+http://pro.boxdigital.org:8080/cambio65tbentertaimentG/65agqb2cw2225axXNMa/181772
 #EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Nuestra_Tele_Internacional?file=RCNNuestraTeleInternacional_2023.png" group-title="COL |",RCN NUESTRA TELE INT FHD
-http://nobloque.online:2082/alemer1804old2/3TcEYMRPUSkZ123/226248
+http://streamsy.online:2999/juanv/04bodwaga0/1671
 #EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/rcn-xtra_2.jpg" group-title="COL |",RCN XTRA FHD
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/4300.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/V2yc9L2/Canal-CNC-Sentimiento-Vallenato-tvtolive-com.jpg" group-title="COL |",SENTIMIENTO VALLENATO HD
 https://hvtraficonew.ddns.net/pastocnc4/cnc4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Se%C3%B1al_Colombia_2013.png/revision/latest?cb=20210501162756&path-prefix=es" group-title="COL |",SEÑAL COLOMBIA HD
-https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+http://animalstream.pro:8080/1q2w3e4r5t/1q2w3e4r5t/22923
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YT9Lc0P/Soncorazonlogo.png" group-title="COL |",SON CORAZON HD
 https://hvtraficonew.ddns.net/pastocnc3/cnc3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zHLpHyq/Canal-CNC-Son-Latino-tvtolive-com.jpg" group-title="COL |",SON LATINO HD
@@ -109,7 +105,7 @@ https://server80.servistreaming.com:3884/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Vevo_logo.svg/1280px-Vevo_logo.svg.png" group-title="COL |",VEVO REGGAETON HD
 http://5tgvb.art:2052/CineViP/3Gf4n7D/62666
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Vevo_2016_Logo.svg/540px-Vevo_2016_Logo.svg.png" group-title="COL |",VEVO REGGAETON CLASICOS HD
-http://live.budtvlight.com:25461/rafanewl/t37DDpJuwD5j/164533
+http://offshore.lat:8080/Cr2023/dNRrHtpRfb/302294.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Vevo_logo.svg/1280px-Vevo_logo.svg.png" group-title="COL |",VEVO URBANO HD
 http://5tgvb.art:2052/CineViP/3Gf4n7D/94205
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Vivetv.png/320px-Vivetv.png" group-title="COL |",VIVE TV COLOMBIA HD
@@ -118,8 +114,6 @@ http://192.144.113.132:1935/live/ViveTV/playlist.m3u8
 http://nandesp.com:8080/cambio2021/3eehYbF8qZ9N/197665
 #EXTINF:-1 tvg-logo="https://files.winsports.co/assets/public/Win_Nuevo_WEB_02.png" group-title="COL |",WIN SPORTS FHD
 http://latintvplus.com:8000/live/gooodseerveriptv/X7MY8691HH/160066.ts
-#EXTINF:-1 tvg-logo="https://files.winsports.co/assets/public/Win_Nuevo_WEB_02.png" group-title="COL |",WIN SPORTS² FHD
-http://nobloque.online:2082/alemer1804old2/3TcEYMRPUSkZ123/392364
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/1200px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="COL |",WIN + FUTBOL¹ FHD
 http://nandesp.com:8080/cambio2021/3eehYbF8qZ9N/197666
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/1200px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="COL |",WIN + FUTBOL² FHD
@@ -129,4 +123,4 @@ http://offshore.lat:8080/Cr2023/dNRrHtpRfb/252516.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/1200px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="COL |",WIN + FUTBOL⁴ FHD
 http://galaxypro.online:8080/gatqJsMRmteq/WDgJLrNJHJSX/93494
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/1200px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="COL |",WIN + FUTBOL⁵ FHD
-http://tpi.lat:8080/TVRESTREAM/7463645TV/281393.ts
+http://animalstream.pro:8080/live/1q2w3e4r5t/1q2w3e4r5t/25376.ts
