@@ -43,6 +43,14 @@ http://nandesp.com:8080/cambio2021/3eehYbF8qZ9N/146518
 http://ultrapremium.cloud:8080/ULTRATOMAS3521/qMaceyZAAf63/476
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/DSports_2_2022.png/revision/latest?cb=20221115002249&path-prefix=es" group-title="COL |",DSPORTS + HD
 http://pro.boxdigital.org:8080/cambio65tbentertaimentG/65agqb2cw2225axXNMa/181834
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/telepedia-es/images/9/99/ESPN_logo.png/revision/latest?cb=20210826204726&path-prefix=es" group-title="COL |",ESPN FHD
+http://pro.boxdigital.org:8080/cambio65tbentertaimentG/65agqb2cw2225axXNMa/181840
+#EXTINF:-1 tvg-logo="http://pro.boxdigital.org:8080/cambio65tbentertaimentG/65agqb2cw2225axXNMa/181845" group-title="COL |",ESPN 2 FHD
+http://nandesp.com:8080/cambio2021/3eehYbF8qZ9N/218700
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Espn3.png/revision/latest?cb=20151012185318&path-prefix=es" group-title="COL |",ESPN 3 FHD
+http://pro.boxdigital.org:8080/cambio65tbentertaimentG/65agqb2cw2225axXNMa/181848
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/ESPN_4.svg/revision/latest?cb=20211129170304&path-prefix=es" group-title="COL |",ESPN 4 FHD
+http://pro.boxdigital.org:8080/cambio65tbentertaimentG/65agqb2cw2225axXNMa/181850
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/imagenes.conexioncapital.co/wp-content/uploads/2021/06/29232153/logo-eureka-new-1.png" group-title="COL |",EUREKA TV HD
 https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/022/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.huilatv.com/wp-content/uploads/2020/01/LOGO-HUILA-TV-ICONO.png" group-title="COL |",HUILA TV HD
