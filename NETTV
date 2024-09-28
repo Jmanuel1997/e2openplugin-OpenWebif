@@ -24,15 +24,15 @@ https://play.amelbasoluciones.co:19360/live/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Canal_tro_logo.PNG" group-title="COL |",CANAL TRO FHD
 http://mymoontools.xyz:8080/TeptCZqGxW4JT/eya3Bd8Kv9qeYKantiFucGJSw/19493
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Canal_1_de_Colombia_%282023%29.svg/revision/latest?cb=20230818220042" group-title="COL |",CANAL UNO FHD
-http://nandesp.com:8080/cambio2021/3eehYbF8qZ9N/220
+http://nandesp.com:8080/nova/PTvMaLYxKYmd/220
 #EXTINF:-1 tvg-logo="https://www.cantinatv.com/cantina%20tv.png" group-title="COL |",CANTINA TV HD
 https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Caracol_2019.png/revision/latest?cb=20200209131121&path-prefix=es" group-title="COL |",CARACOL FHD
-http://nandesp.com:8080/cambio2021/3eehYbF8qZ9N/221
+http://nandesp.com:8080/nova/PTvMaLYxKYmd/221
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/CaracolHD2-2023.png" group-title="COL |",CARACOL HD2
 http://5tgvb.art:2052/perupremium100/xppGBGEk27v6/226328
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Caracol_Internacional_2023.png" group-title="COL |",CARACOL INTERNACIONAL FHD
-http://nandesp.com:8080/cambio2021/3eehYbF8qZ9N/222
+http://nandesp.com:8080/nova/PTvMaLYxKYmd/222
 #EXTINF:-1 tvg-logo="https://www.coosmovision.com/wp-content/uploads/2024/02/logo-cosmovision-blanco-sin-bordes-1024x113.png" group-title="COL |",COSMOVISIÓN HD
 https://videohls2.cosmovision.tv/hls/sd.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Citytv2024posiblelogo.svg/revision/latest?cb=20240319231356&path-prefix=es" group-title="COL |",CITY TV FHD
@@ -44,11 +44,11 @@ http://pro.boxdigital.org:8080/cambio65tbentertaimentG/65agqb2cw2225axXNMa/18183
   #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/DSports_2_2022.png/revision/latest?cb=20221115002249&path-prefix=es" group-title="COL |",DSPORTS 2 FHD
 http://pro.boxdigital.org:8080/cambio65tbentertaimentG/65agqb2cw2225axXNMa/73111
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/DSports_2_2022.png/revision/latest?cb=20221115002249&path-prefix=es" group-title="COL |",DSPORTS + HD
-http://pro.boxdigital.org:8080/cambio65tbentertaimentG/65agqb2cw2225axXNMa/181834
+http://5tgvb.art:2052/perupremium100/xppGBGEk27v6/93021
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/telepedia-es/images/9/99/ESPN_logo.png/revision/latest?cb=20210826204726&path-prefix=es" group-title="COL |",ESPN HD
-http://pro.boxdigital.org:8080/cambio65tbentertaimentG/65agqb2cw2225axXNMa/181840
+http://nandesp.com:8080/nova/PTvMaLYxKYmd/215001
 #EXTINF:-1 tvg-logo="http://pro.boxdigital.org:8080/cambio65tbentertaimentG/65agqb2cw2225axXNMa/181845" group-title="COL |",ESPN 2 HD
-http://nandesp.com:8080/cambio2021/3eehYbF8qZ9N/218700
+http://nandesp.com:8080/nova/PTvMaLYxKYmd/218700
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Espn3.png/revision/latest?cb=20151012185318&path-prefix=es" group-title="COL |",ESPN 3 HD
 http://pro.boxdigital.org:8080/cambio65tbentertaimentG/65agqb2cw2225axXNMa/181848
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/ESPN_4.svg/revision/latest?cb=20211129170304&path-prefix=es" group-title="COL |",ESPN 4 HD
@@ -74,11 +74,11 @@ http://gazytv.com:8880/43bwCE8ZXz/s8dMgq7bcV/1575.ts
 #EXTINF:-1 tvg-logo="https://90minutos.co/wp-content/themes/90min-theme/img/logo-90-minutos.png" group-title="COL |",NOTICIERO 90 MINUTOS HD
 https://cdn.livewave.co:19360/90minutoslive/90minutoslive.m3u88
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/NTN_24_%282014-%29.png/revision/latest?cb=20210307130316&path-prefix=es" group-title="COL |",NTN 24 FHD
-http://nandesp.com:8080/cambio2021/3eehYbF8qZ9N/532
+http://nandesp.com:8080/nova/PTvMaLYxKYmd/532
 #EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/p/AF1QipP8a5c8sh4DGiutt5Dx1hspD3vEeYJCILU0bbNs=w189-h189-n-k-no?h=72&w=72&scale=2" group-title="COL |",ONDAMBIENTAL SD
 https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Canal_RCN_2023-present.svg/revision/latest?cb=20230702001117" group-title="COL |",RCN FHD
-http://nandesp.com:8080/cambio2021/3eehYbF8qZ9N/241
+http://nandesp.com:8080/nova/PTvMaLYxKYmd/241
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/RCN_HD2_2023.png" group-title="COL |",RCN HD2
 http://5tgvb.art:2052/perupremium100/xppGBGEk27v6/87113
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="COL |",RCN MÁS FHD
@@ -103,7 +103,7 @@ https://hvtraficonew.ddns.net/pastocnc7/cnc7/playlist.m3u8
 https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8
 EXTM3U
 #EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Teleantioquia?file=Teleantioquia2024withmap.png" group-title="COL |",TELEANTIOQUIA HD
-http://nandesp.com:8080/cambio2021/3eehYbF8qZ9N/413
+http://nandesp.com:8080/nova/PTvMaLYxKYmd/413
 #EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Telecaf%C3%A9?file=Telecaf%C3%A9_2020.png" group-title="COL |",TELECAFE HD
 http://5tgvb.art:2052/perupremium100/xppGBGEk27v6/175419
 #EXTINF:-1 tvg-logo="https://telecaribe.co/wp-content/uploads/2024/04/Recurso-1.png" group-title="COL |",TELECARIBE HD
@@ -113,7 +113,7 @@ http://latintvplus.com:8000/live/gooodseerveriptv/X7MY8691HH/141622.ts
 #EXTINF:-1 tvg-logo="https://telemedellin.tv/wp-content/themes/telemedellin/img/2024/logo-tm-naranja.png" group-title="COL |",TELEMEDELLIN HD
 http://5tgvb.art:2052/perupremium100/xppGBGEk27v6/286
 #EXTINF:-1 tvg-logo="https://telepacifico.com/dev/wp-content/uploads/2022/11/TELEPACIFICO-35-ANOS-LOGO.png" group-title="COL |",TELEPACIFICO HD
-https://live-edge-bhs-1.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/live-copy/index.m3u8
+http://5tgvb.art:2052/perupremium100/xppGBGEk27v6/288
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/ddf45e_5d497329920543eea64b6b710967480c~mv2.png/v1/fit/w_2500,h_1330,al_c/ddf45e_5d497329920543eea64b6b710967480c~mv2.png" group-title="COL |",TV PEÑOL HD
 https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tropicalmusictv.com/wp-content/uploads/2022/07/tropical_music_logo_red-155x68px.png" group-title="COL |",TROPICAL MUSIC TV HD
@@ -138,3 +138,5 @@ http://wabot.win:8080/CamMarcTv/hYJecCzTm2mU/102979
 http://5tgvb.art:2052/perupremium100/xppGBGEk27v6/128669
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/1200px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="COL |",WIN + FUTBOL³ FHD
 http://tv.proyectox.vip:8080/GP24ddfdmdjfjfjf34/xeY8w7VHxM/8512
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/1200px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="COL |",WIN + FUTBOL⁴ FHD
+http://nandesp.com:8080/nova/PTvMaLYxKYmd/245401
