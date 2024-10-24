@@ -28,7 +28,7 @@ http://nxt.plus:8080/live/samuraix/tth9pE3VkWA2/118110.m3u8
 #EXTINF:-1 tvg-logo="https://www.cantinatv.com/cantina%20tv.png" group-title="COL |",CANTINA TV HD
 https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Caracol_2019.png/revision/latest?cb=20200209131121&path-prefix=es" group-title="COL |",CARACOL FHD
-http://offshore.lat:8080/Cr2023/dNRrHtpRfb/275495.ts
+http://1play.cool:25461/T3cnoMolly200/qKhWx8wd8hSG/29859
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Caracol_2019.png/revision/latest?cb=20200209131121&path-prefix=es" group-title="COL |",CARACOL FHD²
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/NoticiasCaracolAhora2024.png/revision/latest?cb=20240320214722" group-title="COL |",CARACOL AHORA FHD
@@ -77,8 +77,10 @@ https://cdns.livewave.co:8081/90minutoslive/index.m3u8
 http://amepz.xyz:8080/perupremium100/xppGBGEk27v6/56784
 #EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/p/AF1QipP8a5c8sh4DGiutt5Dx1hspD3vEeYJCILU0bbNs=w189-h189-n-k-no?h=72&w=72&scale=2" group-title="COL |",ONDAMBIENTAL SD
 https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/Ranchenato.png/revision/latest?cb=20210517024555&path-prefix=es" group-title="COL |",RANCHENATO HD
+http://1play.cool:25461/T3cnoMolly200/qKhWx8wd8hSG/193979
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Canal_RCN_2023-present.svg/revision/latest?cb=20230702001117" group-title="COL |",RCN FHD
-http://amepz.xyz:8080/perupremium100/xppGBGEk27v6/160818
+http://1play.cool:25461/T3cnoMolly200/qKhWx8wd8hSG/29790
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="COL |",RCN MÁS FHD
 https://rcntv-rcnmas-1-us.plex.wurl.tv/4300.m3u8
 #EXTINF:-1 tvg-logo="https://es.m.wikipedia.org/wiki/RCN_Novelas#/media/Archivo%3ARCN_Novelas_logo_2019.png" group-title="COL |",RCN NOVELAS HD
@@ -135,8 +137,10 @@ https://myportal.live:8443/adam_aram54862/WhF8JAte6vkK/542568
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/1200px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="COL |",WIN + FUTBOL¹ FHD
 http://offshore.lat:8080/Cr2023/dNRrHtpRfb/252516.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/1200px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="COL |",WIN + FUTBOL² FHD
-http://planetaiks.info:8000/live/raton56tvmty/n2AEvqDUHG/12903.ts
+http://1play.cool:25461/T3cnoMolly200/qKhWx8wd8hSG/39958
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/1200px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="COL |",WIN + FUTBOL³ FHD
-http://777back.xyz:8080/Svtv638Gaa/KjkcAphtG7Kh/307026
+http://planetaiks.info:8000/live/raton56tvmty/n2AEvqDUHG/12903.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/1200px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="COL |",WIN + FUTBOL⁴ FHD
+http://777back.xyz:8080/Svtv638Gaa/KjkcAphtG7Kh/307026
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/1200px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="COL |",WIN + FUTBOL⁵ FHD
 https://myportal.live:8443/adam_aram54862/WhF8JAte6vkK/329486
