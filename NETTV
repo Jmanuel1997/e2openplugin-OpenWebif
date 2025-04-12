@@ -44,7 +44,7 @@ https://cp.panelchs.com:1936/8160/8160/chunklist_w746367585.m3u8
 #EXTINF:-1 tvg-logo="https://www.coosmovision.com/wp-content/uploads/2024/02/logo-cosmovision-blanco-sin-bordes-1024x113.png" group-title="COL |",COSMOVISIÓN HD
 https://videohls2.cosmovision.tv/hls/sd_720p2628kbs/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Citytv2024posiblelogo.svg/revision/latest?cb=20240319231356&path-prefix=es" group-title="COL |",CITY TV FHD
-http://sdmx.vip:80/Cambiosfenix/JqwBarVH6xyx/176573
+http://tucuentapremium.vip:8080/perupremium100/xppGBGEk27v6/1115
 #EXTINF:-1 tvg-logo="" group-title="COL |",CIUDADELA TV HD
 https://cp.panelchs.com:1936/8096/8096/chunklist_w1828322349.m3u8
 #EXTINF:-1 tvg-logo="" group-title="COL |",CLASSIC PROJECT 7
@@ -106,7 +106,7 @@ https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Red%2B_2018_logo.png" group-title="COL |",RED MÁS HD
 http://xdplayer.tv:8080/live/PieroIcardi/udZMqnRRFL/67075.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Canal_RCN_2023-present.svg/revision/latest?cb=20230702001117" group-title="COL |",RCN FHD
-http://xdplayer.tv:8080/live/PieroIcardi/udZMqnRRFL/67075.ts
+http://xdplayer.tv:8080/live/PieroIcardi/udZMqnRRFL/212996.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/RCNHD2-NewLogo2023.png/revision/latest?cb=20230623165814" group-title="COL |",RCN HD2
 http://xdplayer.tv:8080/live/PieroIcardi/udZMqnRRFL/53884.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="COL |",RCN MÁS FHD
@@ -115,8 +115,6 @@ https://rcntv-rcnmas-1-us.plex.wurl.tv/4300.m3u8
 http://tucuentapremium.vip:8080/perupremium100/xppGBGEk27v6/226236
 #EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Nuestra_Tele_Internacional?file=RCNNuestraTeleInternacional_2023.png" group-title="COL |",RCN NUESTRA TELE INT FHD
 http://tucuentapremium.vip:8080/perupremium100/xppGBGEk27v6/275
-#EXTINF:-1 tvg-logo="" group-title="COL |",RDM TELEVISIÓN HD
-https://cp.panelchs.com:1936/8010/8010/chunklist_w105375352.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/V2yc9L2/Canal-CNC-Sentimiento-Vallenato-tvtolive-com.jpg" group-title="COL |",SENTIMIENTOS HD
 https://hvtraficonew.ddns.net/pastocnc4/cnc4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Se%C3%B1al_Colombia_2013.png/revision/latest?cb=20210501162756&path-prefix=es" group-title="COL |",SEÑAL COLOMBIA HD
@@ -171,6 +169,6 @@ http://173.208.244.106:8080/live/Goldentv675/Tv54794t5tv/120503.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/1200px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="COL |",WIN + FUTBOL² FHD
 http://etvhome.com:25461/restreamplus/demoswnce/67736
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/1200px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="COL |",WIN + FUTBOL³ FHD
-http://xdplayer.tv:8080/live/PieroIcardi/udZMqnRRFL/67075.ts
+http://xdplayer.tv:8080/live/PieroIcardi/udZMqnRRFL/21861.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/1200px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="COL |",WIN + FUTBOL⁴ FHD
 http://xdplayer.tv:8080/live/PieroIcardi/udZMqnRRFL/22149.ts
