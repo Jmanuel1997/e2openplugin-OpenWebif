@@ -59,12 +59,12 @@ https://movil.ejeserver.com/live/cncsantander.m3u8
 https://59a564764e2b6.streamlock.net/ctvbarranquilla/_definst_/ctv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DSports_2022.png/revision/latest?cb=20221114235431&path-prefix=es" group-title="COL |",DSPORTS FHD
 http://sdmx.vip:80/Cambiosfenix/JqwBarVH6xyx/2190642
-  #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/DSports_2_2022.png/revision/latest?cb=20221115002249&path-prefix=es" group-title="COL |",DSPORTS 2 FHD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/DSports_2_2022.png/revision/latest?cb=20221115002249&path-prefix=es" group-title="COL |",DSPORTS 2 FHD
 http://xdplayer.tv:8080/live/PieroIcardi/udZMqnRRFL/230310.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/DSports_2_2022.png/revision/latest?cb=20221115002249&path-prefix=es" group-title="COL |",DSPORTS + HD
 http://etvhome.com:25461/restreamplus/demoswnce/13854
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/telepedia-es/images/9/99/ESPN_logo.png/revision/latest?cb=20210826204726&path-prefix=es" group-title="COL |",ESPN HD
-http://tucuentapremium.vip:8080/perupremium100/xppGBGEk27v6/161087
+http://tucuentapremium.vip:8080/perupremium100/xppGBGEk27v6/144726
 #EXTINF:-1 tvg-logo="http://pro.boxdigital.org:8080/cambio65tbentertaimentG/65agqb2cw2225axXNMa/181845" group-title="COL |",ESPN 2 HD
 http://tucuentapremium.vip:8080/perupremium100/xppGBGEk27v6/224138
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Espn3.png/revision/latest?cb=20151012185318&path-prefix=es" group-title="COL |",ESPN 3 HD
@@ -105,7 +105,7 @@ https://5e85d90130e77.streamlock.net/6020/6020/chunklist_w238450572.m3u8
 https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Red%2B_2018_logo.png" group-title="COL |",RED MÁS HD
 http://xdplayer.tv:8080/live/PieroIcardi/udZMqnRRFL/67075.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Canal_RCN_2023-present.svg/revision/latest?cb=20230702001117" group-title="COL |",RCN FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CanalRCN2023.png" group-title="COL |",RCN FHD
 http://xdplayer.tv:8080/live/PieroIcardi/udZMqnRRFL/212996.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/RCNHD2-NewLogo2023.png/revision/latest?cb=20230623165814" group-title="COL |",RCN HD2
 http://xdplayer.tv:8080/live/PieroIcardi/udZMqnRRFL/53884.ts
@@ -127,7 +127,6 @@ https://hvtraficonew.ddns.net/pastocnc2/cnc2/playlist.m3u8
 https://hvtraficonew.ddns.net/pastocnc7/cnc7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://suram.com.co/wp-content/uploads/2020/02/LOGO-SURAM.png" group-title="COL |",SURAM TV HD
 https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8
-EXTM3U
 #EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Teleantioquia?file=Teleantioquia2024withmap.png" group-title="COL |",TELEANTIOQUIA HD
 http://sdmx.vip:80/Cambiosfenix/JqwBarVH6xyx/176582
 #EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Telecaf%C3%A9?file=Telecaf%C3%A9_2020.png" group-title="COL |",TELECAFE HD
@@ -169,6 +168,6 @@ http://173.208.244.106:8080/live/Goldentv675/Tv54794t5tv/120503.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/1200px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="COL |",WIN + FUTBOL² FHD
 http://etvhome.com:25461/restreamplus/demoswnce/67736
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/1200px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="COL |",WIN + FUTBOL³ FHD
-http://xdplayer.tv:8080/live/PieroIcardi/udZMqnRRFL/21861.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/1200px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="COL |",WIN + FUTBOL⁴ FHD
 http://xdplayer.tv:8080/live/PieroIcardi/udZMqnRRFL/22149.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/1200px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="COL |",WIN + FUTBOL⁴ FHD
+http://xdplayer.tv:8080/live/PieroIcardi/udZMqnRRFL/21861.ts
