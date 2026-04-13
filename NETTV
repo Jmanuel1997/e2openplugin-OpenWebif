@@ -2,13 +2,13 @@ EXTM3U
 #EXTINF:-1 tvg-logo="https://alpavision.com.co/wp-content/uploads/2022/07/logo-alpa_Mesa-de-trabajo-1.png" group-title="COL |",ALPHASURFNET HD
 https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991785/600x600.webp?type=color_onBlack" group-title="COL |",BEIN SPORTS XTRA Ñ HD
-http://www.1play.cool:25461/ULtR63183811dd/kquFuCz3EpNa/73320
+http://magmas5.com:80/live/ZQMEP4QR91/SRMIY1V4QJ/167293.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCSM588p-_y3XCHnmmhtVTEbBMVGjMV9XcmA&s" group-title="COL |",BEIN SPORTS Ñ HD
 http://live.detodotvplay.com:8080/innovatv2011/eCTnjbMC1l/235
 #EXTINF:-1 tvg-logo="https://www.bumtelevision.com.co/wp-content/uploads/2024/05/BUM-Television_web-1536x589.png" group-title="COL |",BUM TELEVISION HD
 https://movil.ejeserver.com/live/visiondorada.m3u8
 #EXTINF:-1 tvg-logo="https://cnwebsite.blob.core.windows.net/files/2021/05/logo_cablenoticias.png" group-title="COL |",CABLENOTICIAS HD
-http://www.1play.cool:25461/ULtR63183811dd/kquFuCz3EpNa/73668
+http://magmas5.com:80/live/ZQMEP4QR91/SRMIY1V4QJ/3587.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Cali_TV.png/revision/latest?cb=20210422013022&path-prefix=es" group-title="COL |",CALI TV HD
 https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Se%C3%B1al_Institucional_logo.svg/800px-Se%C3%B1al_Institucional_logo.svg.png" group-title="COL |",CANAL INSTITUCIONAL FHD
@@ -24,25 +24,29 @@ https://stream.amelbasoluciones.co/live/telepalmar.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Canal_tro_logo.PNG" group-title="COL |",CANAL TRO FHD
 http://ultrax.online:8080/Moont2025*34/3mLW3GXBzh4T/329
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Canal_1_de_Colombia_%282023%29.svg/revision/latest?cb=20230818220042" group-title="COL |",CANAL UNO FHD
-http://www.1play.cool:25461/ULtR63183811dd/kquFuCz3EpNa/156512
+http://velive.lat:80/live/RESTREAMCRUEL/T7464747/21152.ts
 #EXTINF:-1 tvg-logo="" group-title="COL |",CANAL 8 HD
 https://movil.ejeserver.com/live/canal8tv.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Caracol_2019.png/revision/latest?cb=20200209131121&path-prefix=es" group-title="COL |",CARACOL FHD
-http://wispcinema2.sytes.net:25461/obedchile/18112022/1476.ts
+http://live.detodotvplay.com:80/innovatv2011/eCTnjbMC1l/291
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Caracol_HD2?file=CanalCaracolHD22023.png" group-title="COL |",CARACOL HD2
+http://galileatv.top:80/live/CRPLAY-26hdgd/5U96yantxhuB/892130.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/NoticiasCaracolAhora2024.png/revision/latest?cb=20240320214722" group-title="COL |",CARACOL AHORA FHD
-http://goldtv.lat:80//live/Cotes737hdff/737373vevrv/317546.ts
+http://redworld.pro:8880/Playtvpremium@938/99823NafHbm28/318377
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Caracol_Internacional_2023.png" group-title="COL |",CARACOL INTERNACIONAL FHD
-http://www.1play.cool:25461/ULtR63183811dd/kquFuCz3EpNa/266557
+http://app.tecnomolly.com:8080/live/Casa00001/PjAmvGREQLmJ/321151.m3u8
 #EXTINF:-1 tvg-logo="https://www.coosmovision.com/wp-content/uploads/2024/02/logo-cosmovision-blanco-sin-bordes-1024x113.png" group-title="COL |",COSMOVISIÓN HD
 https://videohls2.cosmovision.tv/hls/sd_720p2628kbs/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Citytv2024posiblelogo.svg/revision/latest?cb=20240319231356&path-prefix=es" group-title="COL |",CITY TV FHD
-http://www.1play.cool:25461/ULtR63183811dd/kquFuCz3EpNa/35506
+http://live.detodotvplay.com:80/innovatv2011/eCTnjbMC1l/20470
 #EXTINF:-1 tvg-logo="https://bugavision.com/wp-content/uploads/2024/12/nuevologobuga_logo.png" group-title="COL |",CNC BUGAVISIÓN HD
 https://movil.ejeserver.com/live/cncbuga.m3u8
 #EXTINF:-1 tvg-logo="https://www.zonajovencolombia.com/wp-content/uploads/2020/02/logo-cnc-blanco.png" group-title="COL |",CNC SANTANDER DE QUILICHAO HD
 https://movil.ejeserver.com/live/cncsantander.m3u8
 #EXTINF:-1 tvg-logo="https://ctvbarranquilla.com/wp-content/uploads/2019/07/cropped-cropped-Logo-ctv.png" group-title="COL |",CTV BARRANQUILLA HD
 https://live.ctvbarranquilla.com/live/ctv-4ad31c89f3764bf0980e642bc12fd00a.m3u8
+#EXTINF:-1 tvg-logo="" group-title="COL |",CUCUTA RETRO TV HD
+https://mist01.homestream.fun/hls/ntvlive/0_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DSports_2022.png/revision/latest?cb=20221114235431&path-prefix=es" group-title="COL |",DSPORTS FHD
 http://live.detodotvplay.com:8080/innovatv2011/eCTnjbMC1l/63694
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/DSports_2_2022.png/revision/latest?cb=20221115002249&path-prefix=es" group-title="COL |",DSPORTS 2 FHD
@@ -73,12 +77,16 @@ https://server.asilivehd.com:3333/live/huilatvlive.m3u8
 https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
 #EXTINF:-1 tvg-logo="" group-title="COL |",MÁS MUSICA FM HD
 https://video.ejeserver.com/live/masmusica.m3u8
+#EXTINF:-1 tvg-logo="" group-title="COL |",MEMORIAS TROPICAL HD
+https://video.xtrematv.com:3361/live/memoriastropicallive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="COL |",MI MUSICA POPULAR HD
+http://wispcinema2.sytes.net:25461/play/4JBpyiW9Tv0zdoVf5s50U-VpCC_5kJUI1jL0rswsECk/ts
 #EXTINF:-1 tvg-logo="https://alpavision.com.co/wp-content/uploads/2022/07/logo-alpa_Mesa-de-trabajo-1.png" group-title="COL |",MULTICANAL HD
 https://live20.bozztv.com/akamaissh101/ssh101/multicanal/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://90minutos.co/wp-content/themes/90min-theme/img/logo-90-minutos.png" group-title="COL |",NOTICIERO 90 MINUTOS HD
 https://live-edge-eu-1.cdn.enetres.net/621B146D29C541AFB1507809F038F471021/live-5000/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/NTN_24_%282014-%29.png/revision/latest?cb=20210307130316&path-prefix=es" group-title="COL |",NTN 24 HD
-http://www.1play.cool:25461/ULtR63183811dd/kquFuCz3EpNa/147300
+http://live.detodotvplay.com:80/innovatv2011/eCTnjbMC1l/200
 #EXTINF:-1 tvg-logo="" group-title="COL |",OASIS TV HD
 https://5e85d90130e77.streamlock.net/6020/6020/chunklist_w238450572.m3u8
 #EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/p/AF1QipP8a5c8sh4DGiutt5Dx1hspD3vEeYJCILU0bbNs=w189-h189-n-k-no?h=72&w=72&scale=2" group-title="COL |",ONDAMBIENTAL SD
@@ -88,11 +96,11 @@ https://live-edge-eu-1.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC022/live-
 #EXTINF:-1 tvg-logo="" group-title="COL |",PARRANDA VALLENATA HD
 https://backupmaxmedia.hvmultiplay.com/hls/stream3/parrandavallenata.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CanalRCN2023.png" group-title="COL |",RCN FHD
-http://www.1play.cool:25461/ULtR63183811dd/kquFuCz3EpNa/29790
+http://velive.lat:80/live/RESTREAMCRUEL/T7464747/21164.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="COL |",RCN MÁS FHD
 https://rcntv-rcnmas-1-us.plex.wurl.tv/4300.m3u8
 #EXTINF:-1 tvg-logo="https://es.m.wikipedia.org/wiki/RCN_Novelas#/media/Archivo%3ARCN_Novelas_logo_2019.png" group-title="COL |",RCN NOVELAS HD
-http://www.1play.cool:25461/ULtR63183811dd/kquFuCz3EpNa/40533
+http://live.detodotvplay.com:80/innovatv2011/eCTnjbMC1l/289
 #EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Nuestra_Tele_Internacional?file=RCNNuestraTeleInternacional_2023.png" group-title="COL |",RCN NUESTRA TELE INT FHD
 http://live.detodotvplay.com:8080/innovatv2011/eCTnjbMC1l/63997
 #EXTINF:-1 tvg-logo="https://i.ibb.co/V2yc9L2/Canal-CNC-Sentimiento-Vallenato-tvtolive-com.jpg" group-title="COL |",SENTIMIENTOS HD
@@ -108,7 +116,7 @@ https://hvtraficonew.ddns.net/pastocnc7/cnc7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://suram.com.co/wp-content/uploads/2020/02/LOGO-SURAM.png" group-title="COL |",SURAM TV HD
 https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8
 #EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Teleantioquia?file=Teleantioquia2024withmap.png" group-title="COL |",TELEANTIOQUIA HD
-http://www.1play.cool:25461/ULtR63183811dd/kquFuCz3EpNa/30528
+http://ampztl.xyz:8080/CineViP/3Gf4n7D/1301
 #EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Telecaf%C3%A9?file=Telecaf%C3%A9_2020.png" group-title="COL |",TELECAFE HD
 http://live.detodotvplay.com:8080/innovatv2011/eCTnjbMC1l/63697
 #EXTINF:-1 tvg-logo="https://telecaribe.co/wp-content/uploads/2024/04/Recurso-1.png" group-title="COL |",TELECARIBE HD
@@ -118,7 +126,7 @@ http://wispcinema2.sytes.net:25461/obedchile/18112022/7991.ts
 #EXTINF:-1 tvg-logo="" group-title="COL |",TELENOSTALGIA HD
 http://186.194.160.110:9002/play/a0fp/index.m3u8
 #EXTINF:-1 tvg-logo="https://telepacifico.com/dev/wp-content/uploads/2022/11/TELEPACIFICO-35-ANOS-LOGO.png" group-title="COL |",TELEPACIFICO HD
-http://www.1play.cool:25461/ULtR63183811dd/kquFuCz3EpNa/40016
+http://ampztl.xyz:8080/CineViP/3Gf4n7D/1674
 #EXTINF:-1 tvg-logo="" group-title="COL |",TELEPASTO HD
 https://hvtraficonew.ddns.net/telepasto/telepasto.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="COL |",TU UNIVERSO TV
@@ -133,6 +141,10 @@ https://59a564764e2b6.streamlock.net/vallenato/tropical/chunklist_w1159540706.m3
 https://eu1.servers10.com:8081/8072/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://tropicalmusictv.com/wp-content/uploads/2022/07/virtv_logo-290x68px.png" group-title="COL |",VALLENATO INTERNACIONAL HD
 https://59a564764e2b6.streamlock.net/vallenato/vallenatom/chunklist_w2086553332.m3u8
+#EXTINF:-1 tvg-logo="" group-title="COL |",VEVO REGGAETON HD
+http://ampztl.xyz:8080/CineViP/3Gf4n7D/1495
+#EXTINF:-1 tvg-logo="" group-title="COL |",VEVO URBANO HD
+http://ampztl.xyz:8080/CineViP/3Gf4n7D/1496
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Vivetv.png/320px-Vivetv.png" group-title="COL |",VIVE TV COLOMBIA HD
 http://192.144.113.132:1935/live/ViveTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://files.winsports.co/assets/public/Win_Nuevo_WEB_02.png" group-title="COL |",WIN SPORTS FHD¹
